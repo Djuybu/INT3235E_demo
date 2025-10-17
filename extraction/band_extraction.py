@@ -215,7 +215,7 @@ def crawl_band_albums(soup):
                                 album_col = i
                             elif "phát hành" in h:
                                 release_col = i
-                            album["title"] = cells[album_col].get_text(strip=True) if album_col < len(cells) else None
+                                album["title"] = cells[album_col].get_text(strip=True) if album_col < len(cells) else None
                             album["release_date"] = cells[release_col].get_text(strip=True) if release_col is not None and release_col < len(cells) else None
                     else:
                         rows = sib.find_all("tr")[1:]  # bỏ hàng tiêu đề
@@ -354,5 +354,5 @@ urls = crawl_category_website("https://vi.wikipedia.org/wiki/Th%E1%BB%83_lo%E1%B
 bands = crawl_singer_info(urls)
 # print(bands)
 bands = beautify_data(bands)
-export_to_json(bands, 'bands.json')
+export_to_json(bands, 'raw_data/bands.json')
 # print(crawl_band_albums(BeautifulSoup(requests.get("https://vi.wikipedia.org/wiki/C%C3%A1_H%E1%BB%93i_Hoang", headers=headers).text, 'lxml')))
