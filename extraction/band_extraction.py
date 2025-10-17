@@ -215,7 +215,11 @@ def crawl_band_albums(soup):
                                 album_col = i
                             elif "phát hành" in h:
                                 release_col = i
-                                album["title"] = cells[album_col].get_text(strip=True) if album_col < len(cells) else None
+                        for row in rows:
+                            cells = row.find_all(["td", "th"])
+                            if not cells:
+                                continue
+                            album["title"] = cells[album_col].get_text(strip=True) if album_col < len(cells) else None
                             album["release_date"] = cells[release_col].get_text(strip=True) if release_col is not None and release_col < len(cells) else None
                     else:
                         rows = sib.find_all("tr")[1:]  # bỏ hàng tiêu đề
@@ -258,7 +262,7 @@ def crawl_category_website(url):
     try:
         response = requests.get(url, headers=headers)
         response.raise_for_status()  # Check if the request was successful
-        soup = BeautifulSoup(response.text, 'lxml')
+        soup = BeautifulSoup(response.text, 'html.parser')
 
         # Trỏ vào phần chứa các url
         singer_links = soup.find("div", {"id": "mw-pages"})
@@ -279,7 +283,7 @@ def crawl_singer_info(urls):
             print(f"Crawling {url}...")
             response = requests.get(url, headers=headers)
             response.raise_for_status()
-            soup = BeautifulSoup(response.text, 'lxml')
+            soup = BeautifulSoup(response.text, 'html.parser')
 
             #Trỏ vào info box
             info_box = soup.find("table", {"class": "infobox"})
