@@ -17,42 +17,43 @@ def save_excluded_links(excluded_links):
     with open(EXCLUDED_PATH, "w", encoding="utf-8") as f:
         json.dump(sorted(list(excluded_links)), f, ensure_ascii=False, indent=2)
 
+
 def crawl_valid_links(url):
     headers = {'User-Agent': 'Mozilla/5.0'}
     response = requests.get(url, headers=headers)
     soup = BeautifulSoup(response.text, 'html.parser')
 
-    # Các mục heading được phép lấy link phía sau
-    target_headings = [
-        "Cuộc đời sự nghiệp",
-        "Phong cách nghệ thuật",
-        "Hình tượng công chúng",
-        "Danh sách đĩa nhạc"
-    ]
+    # ❌ Các phần cần bỏ qua (không duyệt sau đó)
+    stop_headings = ["Chú thích", "Tham khảo", "Liên kết ngoài"]
 
-    valid_sections = []
-    for heading in soup.find_all(['div'], class_=['mw-heading2', 'mw-heading3']):
-        text = heading.get_text(strip=True)
-        if text in target_headings:
-            valid_sections.append(heading)
+    content = soup.find('div', id='mw-content-text')
+    if not content:
+        print("⚠️ Không tìm thấy nội dung chính trong trang!")
+        return []
 
     all_links = []
-    for section in valid_sections:
-        for sibling in section.find_all_next():
-            if sibling.name in ['div'] and 'mw-heading' in ' '.join(sibling.get('class', [])):
-                break  # Dừng khi gặp heading khác
-            links = sibling.find_all('a', href=True)
-            for link in links:
-                href = link['href']
-                if href.startswith('/wiki/') and not any(x in href for x in [':', '#']):
-                    full_url = "https://vi.wikipedia.org" + href
-                    all_links.append(full_url)
 
+    for element in content.find_all(['p', 'ul', 'ol', 'div', 'h2', 'h3'], recursive=True):
+        # Nếu gặp heading dừng, thì dừng luôn việc duyệt
+        if element.name in ['h2', 'h3']:
+            heading_text = element.get_text(strip=True)
+            if any(stop in heading_text for stop in stop_headings):
+                print(f"🛑 Dừng tại mục: {heading_text}")
+                break
+
+        # Lấy link trong các đoạn còn lại
+        for link in element.find_all('a', href=True):
+            href = link['href']
+            if href.startswith('/wiki/') and not any(x in href for x in [':', '#']):
+                full_url = "https://vi.wikipedia.org" + href
+                all_links.append(full_url)
+
+    # Loại bỏ trùng lặp
     all_links = list(dict.fromkeys(all_links))
-    print(f"🔍 Tìm thấy {len(all_links)} đường dẫn sau các mục yêu cầu.")
+    print(f"🔍 Tìm thấy {len(all_links)} đường dẫn hợp lệ trong trang chính.")
 
     excluded_links = load_excluded_links()
-    print(f"📂 Đang bỏ qua {len(excluded_links)} link đã bị loại trước đó...")
+    print(f"📂 Bỏ qua {len(excluded_links)} link đã bị loại trước đó...")
 
     valid_links = []
     new_excluded = set()
@@ -64,7 +65,7 @@ def crawl_valid_links(url):
             continue
 
         try:
-            sub_resp = requests.get(link, headers=headers, timeout=5)
+            sub_resp = requests.get(link, headers=headers, timeout=6)
             sub_soup = BeautifulSoup(sub_resp.text, 'html.parser')
             cat_div = sub_soup.find('div', id='mw-normal-catlinks')
 
