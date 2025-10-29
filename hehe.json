@@ -1,0 +1,37 @@
+{
+"depth": 4,
+        "name": "Tùng Dương",
+        "Quốc tịch": "Việt Nam",
+        "Năm hoạt động": "2004 – nay",
+        "Quê quán": "Quảng Trị , Việt Nam",
+        "Nguyên quán": "Hà Nội",
+        "Thể loại": [
+            "V-pop",
+            "jazz",
+            "acoustic",
+            "rock",
+            "nhạc đỏ",
+            "New Age",
+            "electronic",
+            "dân gian đương đại",
+            "tình khúc 1954–1975",
+            "nhạc tiền chiến"
+        ],
+        "link": "https://vi.wikipedia.org/wiki/T%C3%B9ng_D%C6%B0%C6%A1ng",
+        "relations": [
+            {
+                "singer_link": "https://vi.wikipedia.org/wiki/L%E1%BB%87_Quy%C3%AAn_(ca_s%C4%A9,_sinh_1981)",
+                "type": [
+                    "same_genre",
+                    "collaborated"
+                ]
+            },
+            {
+                "singer_link": "https://vi.wikipedia.org/wiki/Miu_L%C3%AA",
+                "type": [
+                    "same_genre",
+                    "collaborated"
+                ]
+            }
+        ]
+    }

@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import json
 import os
 
+
 SAVE_DIR = r"C:\Users\Woangchung\INT3235E_demo\raw_data"
 EXCLUDED_PATH = os.path.join(SAVE_DIR, "excluded_links.json")
 
