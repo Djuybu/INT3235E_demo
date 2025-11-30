@@ -1,0 +1,947 @@
+[
+    {
+        "depth": 2,
+        "name": "Andiez",
+        "Tên khác": "Lik",
+        "Sinh": "",
+        "Tên khai sinh": "Trương Nguyễn Hoài Nam",
+        "Ngày sinh": "10 tháng 2, 1995 (30 tuổi)",
+        "Giới tính": "nam",
+        "Quốc tịch": "Việt Nam",
+        "Lĩnh vực": "Âm nhạc",
+        "Nghệ danh": "Andiez",
+        "Năm hoạt động": "2010-nay",
+        "link": "https://vi.wikipedia.org/wiki/Andiez",
+        "relations": [],
+        "awards": [],
+        "giới tính": "nam",
+        "collaborated_singers": [
+            {
+                "link": "https://vi.wikipedia.org/wiki/365daband",
+                "context": "over Show tại công ty Vietnam Artist Agency - VAA (Studio68) với loạt liên khúc các bài hát của 365 để có cơ hội được hát chung với nhóm, có mong muốn các thành viên trong nhóm hát sáng tác của anh n",
+                "anchor_html": "<a href=\"/wiki/365daband\" title=\"365daband\">365</a>",
+                "category": [
+                    "{'link': 'https://vi.wikipedia.org/wiki/365daband', 'context': 'over Show tại công ty Vietnam Artist Agency - VAA (Studio68) với loạt liên khúc các bài hát của 365 để có cơ hội được hát chung với nhóm, có mong muốn các thành viên trong nhóm hát sáng tác của anh n', 'anchor_html': '<a href=\"/wiki/365daband\" title=\"365daband\">365</a>', 'category': ['collaborated_with']}"
+                ]
+            },
+            {
+                "link": "https://vi.wikipedia.org/wiki/Jun_Ph%E1%BA%A1m",
+                "context": "trong nhóm: Will với Tận cùng nỗi nhớ (2018) & Do em, do anh, do ai (#3D) (2019), Jun Phạm với Cô gái nhà bên (2019), S.T Sơn Thạch với Thật xa thật gần (2019) & Ngày th",
+                "anchor_html": "<a href=\"/wiki/Jun_Ph%E1%BA%A1m\" title=\"Jun Phạm\">Jun Phạm</a>",
+                "category": [
+                    "collaborated_with"
+                ]
+            },
+            {
+                "link": "https://vi.wikipedia.org/wiki/H%E1%BB%93_Ho%C3%A0i_Anh",
+                "context": "iez và thuyết phục anh chàng về đội của mình. Và kết quả, Andiez đã chọn về đội của huấn luyện viên Hồ Hoài Anh . Mặc dù nhiều khán giả cảm thấy tiếc nuối khi Andiez để chỉ giành giải Á quân nhưng chàng tr",
+                "anchor_html": "<a href=\"/wiki/H%E1%BB%93_Ho%C3%A0i_Anh\" title=\"Hồ Hoài Anh\">Hồ Hoài Anh</a>",
+                "category": [
+                    "collaborated_with"
+                ]
+            },
+            {
+                "link": "https://vi.wikipedia.org/wiki/Amee",
+                "context": "ạc thực thụ. Anh đã cho ra mắt nhiều sản phẩm âm nhạc như \"Anh Đánh Rơi Người Yêu Này\" kết hợp cùng Amee , \"Mãi Mãi Sẽ Hết Vào Ngày Mai\",... đặc biệt là bài hát nhạc phim Chuyến đi của thanh xuân \"S",
+                "anchor_html": "<a href=\"/wiki/Amee\" title=\"Amee\">Amee</a>",
+                "category": [
+                    "collaborated_with"
+                ]
+            },
+            {
+                "link": "https://vi.wikipedia.org/wiki/Chi_Pu",
+                "context": "gia sáng tác cho một số ca sĩ như \"Tận Cùng Nỗi Nhớ\" của Will, \"Đóa Hoa Hồng\" và \"Tôi Vẫn Hát\" của Chi Pu , [ 5<",
+                "anchor_html": "<a href=\"/wiki/Chi_Pu\" title=\"Chi Pu\">Chi Pu</a>",
+                "category": [
+                    "collaborated_with"
+                ]
+            },
+            {
+                "link": "https://vi.wikipedia.org/wiki/K-ICM",
+                "context": "e-bracket\">[ 5 ] \"Cần Một Lý Do\" của Quang Đông và K-ICM ,... Gần đây anh đã quay trở lại với ca khúc \"Chờ Đợi Có Đáng Sợ\" sau cú sốc tinh thần từ dư",
+                "anchor_html": "<a class=\"mw-redirect\" href=\"/wiki/K-ICM\" title=\"K-ICM\">K-ICM</a>",
+                "category": [
+                    "collaborated_with"
+                ]
+            },
+            {
+                "link": "https://vi.wikipedia.org/wiki/Anh_T%C3%BA_(sinh_1993)",
+                "context": "í) Ai đang ở trong gương Anh 17 (với Seachains (đồng sáng tác)) Anh chờ ( Anh Tú Atus ) Anh đang ở đâu đấy anh (",
+                "anchor_html": "<a class=\"mw-redirect\" href=\"/wiki/Anh_T%C3%BA_(sinh_1993)\" title=\"Anh Tú (sinh 1993)\">Anh Tú Atus</a>",
+                "category": [
+                    "collaborated_with"
+                ]
+            },
+            {
+                "link": "https://vi.wikipedia.org/wiki/H%C6%B0%C6%A1ng_Giang_(ngh%E1%BB%87_s%C4%A9)",
+                "context": "tập 1) Bản lĩnh ngôi sao (tập 14) 2021: Bản lĩnh ngôi sao (tập 124) Úm ba la ra chữ gì (mùa 3, tập 12) Nhanh như chớp (mùa 3, tập 23) 2022: Góc nhỏ thanh xuân (mùa 2, tập 11) 6 ô cửa bí ẩn (tập 12) Quán ăn hạnh phúc (mùa 1, tập 4) Không gian cảm xúc (mùa 1, tập 5) 2024: Thanh âm hạnh phúc (mùa 2, tập 9) Sáng tác [ sửa | sửa mã nguồn ] 1 phút 3T (Tôi tồn tại) (Đỗ Phú Quí) Ai đang ở trong gương Anh 17 (với Seachains (đồng sáng tác)) Anh chờ ( Anh Tú Atus ) Anh đang ở đâu đấy anh ( Hương Giang ) Anh đánh rơi người yêu này (với Amee ) Anh đừng đi (với Lyly) Anh ở đây mà ( Đức Phúc ) Anh sẽ đến (OST Nhân duyên: Người yêu tiền kiếp) ( Trịnh Thăng Bình ) Anh tệ lắm ( Dương Hoàng Yến ) Anh vẫn hy vọng Bài hát của những ước mơ Berver Calling U ( Gil Lê ) Cần một lý do (Quang Đông & K-ICM) Cha đang ở đâu đấy cha (Nguyễn Ngọc Bảo Hân) Chàng và nàng (Rum) Chẳng còn tha thiết để yêu ( Quốc Thiên ) Chỉ cần mình thương nhau Chỉ còn em thôi (với Hương Ly) Chờ đợi có đáng sợ Chúng ta không còn chúng ta ( Phạm Quỳnh Anh ) Có ai vô hình trong tôi (Neon) Con đã về (Dương Edward) Cô gái nhà bên ( Jun Phạm ) Do em, do anh, do ai (3D#) (Will) Để anh được yêu em (Falling in love) (Duy Ngọc & Annie Thu Thủy)",
+                "anchor_html": "<a class=\"mw-redirect\" href=\"/wiki/H%C6%B0%C6%A1ng_Giang_(ngh%E1%BB%87_s%C4%A9)\" title=\"Hương Giang (nghệ sĩ)\">Hương Giang</a>",
+                "category": [
+                    "collaborated_with"
+                ]
+            },
+            {
+                "link": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%A9c_Ph%C3%BAc",
+                "context": "Amee ) Anh đừng đi (với Lyly) Anh ở đây mà ( Đức Phúc ) Anh sẽ đến (OST Nhân duyên: Người yêu tiền kiếp) (",
+                "anchor_html": "<a href=\"/wiki/%C4%90%E1%BB%A9c_Ph%C3%BAc\" title=\"Đức Phúc\">Đức Phúc</a>",
+                "category": [
+                    "collaborated_with\n\nReason: The context mentions Đức Phúc in relation to an OST for a project (\"Nhân duyên: Người yêu tiền kiếp\"), implying a collaboration with Amee on a song/project."
+                ]
+            },
+            {
+                "link": "https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh_Th%C4%83ng_B%C3%ACnh",
+                "context": "h%C3%BAc\" title=\"Đức Phúc\">Đức Phúc ) Anh sẽ đến (OST Nhân duyên: Người yêu tiền kiếp) ( Trịnh Thăng Bình ) Anh tệ lắm (",
+                "anchor_html": "<a href=\"/wiki/Tr%E1%BB%8Bnh_Th%C4%83ng_B%C3%ACnh\" title=\"Trịnh Thăng Bình\">Trịnh Thăng Bình</a>",
+                "category": [
+                    "collaborated_with"
+                ]
+            },
+            {
+                "link": "https://vi.wikipedia.org/wiki/D%C6%B0%C6%A1ng_Ho%C3%A0ng_Y%E1%BA%BFn",
+                "context": "1%BB%8Bnh_Th%C4%83ng_B%C3%ACnh\" title=\"Trịnh Thăng Bình\">Trịnh Thăng Bình ) Anh tệ lắm ( Dương Hoàng Yến ) Anh vẫn hy vọng Bài hát của những ước mơ Berver Calling U (",
+                "anchor_html": "<a href=\"/wiki/D%C6%B0%C6%A1ng_Ho%C3%A0ng_Y%E1%BA%BFn\" title=\"Dương Hoàng Yến\">Dương Hoàng Yến</a>",
+                "category": [
+                    "collaborated_with"
+                ]
+            },
+            {
+                "link": "https://vi.wikipedia.org/wiki/Gil_L%C3%AA",
+                "context": "/a>) Anh vẫn hy vọng Bài hát của những ước mơ Berver Calling U ( Gil Lê ) Cần một lý do (Quang Đông & K-ICM) Cha đang ở đâu đấy cha (Nguyễn Ngọc Bảo H",
+                "anchor_html": "<a href=\"/wiki/Gil_L%C3%AA\" title=\"Gil Lê\">Gil Lê</a>",
+                "category": [
+                    "collaborated_with"
+                ]
+            },
+            {
+                "link": "https://vi.wikipedia.org/wiki/Qu%E1%BB%91c_Thi%C3%AAn",
+                "context": "a>) Anh sẽ đến (OST Nhân duyên: Người yêu tiền kiếp) ( Trịnh Thăng Bình ) Anh tệ lắm ( Dương Hoàng Yến ) Anh vẫn hy vọng Bài hát của những ước mơ Berver Calling U ( Gil Lê ) Cần một lý do (Quang Đông & K-ICM) Cha đang ở đâu đấy cha (Nguyễn Ngọc Bảo Hân) Chàng và nàng (Rum) Chẳng còn tha thiết để yêu ( Quốc Thiên ) Chỉ cần mình thương nhau Chỉ còn em thôi (với Hương Ly) Chờ đợi có đáng sợ Chúng ta không còn chúng ta ( Phạm Quỳnh Anh ) Có ai vô hình trong tôi (Neon) Con đã về (Dương Edward) Cô gái nhà bên ( Jun Phạm ) Do em, do anh, do ai (3D#) (Will) Để anh được yêu em (Falling in love) (Duy Ngọc & Annie Thu Thủy) Điều tuyệt vời nhất (với Summer, Seachains) Đóa hoa hồng (",
+                "anchor_html": "<a href=\"/wiki/Qu%E1%BB%91c_Thi%C3%AAn\" title=\"Quốc Thiên\">Quốc Thiên</a>",
+                "category": [
+                    "collaborated_with\n\nReason: The context lists songs involving Quốc Thiên in collaboration with other artists (e.g., \"Điều tuyệt vời nhất (với Summer, Seachains)\"), indicating a collaborative relationship."
+                ]
+            },
+            {
+                "link": "https://vi.wikipedia.org/wiki/Ph%E1%BA%A1m_Qu%E1%BB%B3nh_Anh",
+                "context": "(Đỗ Phú Quí) Ai đang ở trong gương Anh 17 (với Seachains (đồng sáng tác)) Anh chờ ( Anh Tú Atus ) Anh đang ở đâu đấy anh ( Hương Giang ) Anh đánh rơi người yêu này (với Amee ) Anh đừng đi (với Lyly) Anh ở đây mà ( Đức Phúc ) Anh sẽ đến (OST Nhân duyên: Người yêu tiền kiếp) ( Trịnh Thăng Bình ) Anh tệ lắm ( Dương Hoàng Yến ) Anh vẫn hy vọng Bài hát của những ước mơ Berver Calling U ( Gil Lê ) Cần một lý do (Quang Đông & K-ICM) Cha đang ở đâu đấy cha (Nguyễn Ngọc Bảo Hân) Chàng và nàng (Rum) Chẳng còn tha thiết để yêu ( Quốc Thiên ) Chỉ cần mình thương nhau Chỉ còn em thôi (với Hương Ly) Chờ đợi có đáng sợ Chúng ta không còn chúng ta ( Phạm Quỳnh Anh ) Có ai vô hình trong tôi (Neon) Con đã về (Dương Edward) Cô gái nhà bên ( Jun Phạm ) Do em, do anh, do ai (3D#) (Will) Để anh được yêu em (Falling in love) (Duy Ngọc & Annie Thu Thủy) Điều tuyệt vời nhất (với Summer, Seachains) Đóa hoa hồng ( Chi Pu ) Đường em đi anh sẽ đi ngược lại (Ali Hoàng Dương) Đường một chiều (Huỳnh Tú ft Khói & Magazine) Em đã thấy anh cùng người ấy ( Hương Giang ) Em không cần (Trần Ngọc Ánh) Em tên là gì? (Gin Tuấn Kiệt) Follow my way (với Seachains (đồng sáng tác)) Giờ em tính sao (với Khương Lê (đồng sáng tác), T.R.I) I don't know Khác biệt (đồng sáng tác với Khương Ngọc ) ( Quốc Thiên ) Khi người con gái cô đơn (với GiGi Hương Giang) Là anh đó Let me forget you (ft. F) M3. 14 (Mong em quay về) (với Dubbie) Mảnh ghép Mãi mãi sẽ hết vào ngày mai Mùa thu đi qua (với Alex Lam (đồng sáng tác)) Ngày thươn",
+                "anchor_html": "<a href=\"/wiki/Ph%E1%BA%A1m_Qu%E1%BB%B3nh_Anh\" title=\"Phạm Quỳnh Anh\">Phạm Quỳnh Anh</a>",
+                "category": [
+                    "collaborated_with\n\nReason: The context lists Phạm Quỳnh Anh collaborating with multiple artists (e.g., đồng sáng tác with Seachains), indicating collaborative relationships rather than family, former band membership, or inspiration directions."
+                ]
+            },
+            {
+                "link": "https://vi.wikipedia.org/wiki/Kh%C6%B0%C6%A1ng_Ng%E1%BB%8Dc",
+                "context": "(với Khương Lê (đồng sáng tác), T.R.I) I don't know Khác biệt (đồng sáng tác với Khương Ngọc ) ( Quốc Thiên ) Khi người con",
+                "anchor_html": "<a href=\"/wiki/Kh%C6%B0%C6%A1ng_Ng%E1%BB%8Dc\" title=\"Khương Ngọc\">Khương Ngọc</a>",
+                "category": [
+                    "collaborated_with"
+                ]
+            },
+            {
+                "link": "https://vi.wikipedia.org/wiki/Gin_Tu%E1%BA%A5n_Ki%E1%BB%87t",
+                "context": ">Mãi mãi sẽ hết vào ngày mai Mùa thu đi qua (với Alex Lam (đồng sáng tác)) Ngày thương tháng nhớ năm đợi (S.T Sơn Thạch) Người nào hay (OST Friend zone) ( Chi Pu ) Những con đường cô đơn (Mai Anh Tài) Nói anh nghe được không Ối dồi ôi (với Phu Nho) Please (Hoàng Tôn) Quá khứ chỉ nên là quá khứ Quá khứ chỉ nên là quá khứ (Rap version) Suýt nữa thì (OST Chuyến đi của thanh xuân) Tan (DC Tâm) Tận cùng nỗi nhớ (Will) Thanh xuân là cả một đời ( Gin Tuấn Kiệt ) Thật tuyệt vời khi ở bên em (OST Thật tuyệt vời khi ở bên em) Thật xa thật gần (S.T Sơn Thạch) Thôi thì thôi thế thôi (Thái Tuyết Trâm) Thuận nước đẩu thuyền (đồng sáng tác với Thanh Hưng và S.T Sơn Thạch) (S.T Sơn Thạch) Tình yêu của anh Tôi vẫn hát ( Chi Pu ) Tôi yêu cô đơn ( Thùy Chi ) Trời tối (với LK (đồng sáng tác)) Trước Tiên Anh Hãy Nói Chia Tay Em Đi (với Phúc Bồ) (",
+                "anchor_html": "<a href=\"/wiki/Gin_Tu%E1%BA%A5n_Ki%E1%BB%87t\" title=\"Gin Tuấn Kiệt\">Gin Tuấn Kiệt</a>",
+                "category": [
+                    "collaborated_with"
+                ]
+            },
+            {
+                "link": "https://vi.wikipedia.org/wiki/Th%C3%B9y_Chi",
+                "context": "nh Tôi vẫn hát ( Chi Pu ) Tôi yêu cô đơn ( Thùy Chi ) Trời tối (với LK (đồng sáng tác)) Trước Tiên Anh Hãy Nói Chia Tay Em Đi (với Phú",
+                "anchor_html": "<a href=\"/wiki/Th%C3%B9y_Chi\" title=\"Thùy Chi\">Thùy Chi</a>",
+                "category": [
+                    "collaborated_with"
+                ]
+            },
+            {
+                "link": "https://vi.wikipedia.org/wiki/Thi%E1%BB%81u_B%E1%BA%A3o_Tr%C3%A2m",
+                "context": "nh) Em tên là gì? (Gin Tuấn Kiệt) Follow my way (với Seachains (đồng sáng tác)) Giờ em tính sao (với Khương Lê (đồng sáng tác), T.R.I) I don't know Khác biệt (đồng sáng tác với Khương Ngọc ) ( Quốc Thiên ) Khi người con gái cô đơn (với GiGi Hương Giang) Là anh đó Let me forget you (ft. F) M3. 14 (Mong em quay về) (với Dubbie) Mảnh ghép Mãi mãi sẽ hết vào ngày mai Mùa thu đi qua (với Alex Lam (đồng sáng tác)) Ngày thương tháng nhớ năm đợi (S.T Sơn Thạch) Người nào hay (OST Friend zone) ( Chi Pu ) Những con đường cô đơn (Mai Anh Tài) Nói anh nghe được không Ối dồi ôi (với Phu Nho) Please (Hoàng Tôn) Quá khứ chỉ nên là quá khứ Quá khứ chỉ nên là quá khứ (Rap version) Suýt nữa thì (OST Chuyến đi của thanh xuân) Tan (DC Tâm) Tận cùng nỗi nhớ (Will) Thanh xuân là cả một đời ( Gin Tuấn Kiệt ) Thật tuyệt vời khi ở bên em (OST Thật tuyệt vời khi ở bên em) Thật xa thật gần (S.T Sơn Thạch) Thôi thì thôi thế thôi (Thái Tuyết Trâm) Thuận nước đẩu thuyền (đồng sáng tác với Thanh Hưng và S.T Sơn Thạch) (S.T Sơn Thạch) Tình yêu của anh Tôi vẫn hát ( Chi Pu ) Tôi yêu cô đơn ( Thùy Chi ) Trời tối (với LK (đồng sáng tác)) Trước Tiên Anh Hãy Nói Chia Tay Em Đi (với Phúc Bồ) ( Thiều Bảo Trâm feat Andiez) Tựa làn khói (với Neon, Seachains) Về với anh đi (OST game Hãy yêu cô ấy đúng cách - Trường sinh quyết) Xa anh (Đặng Thái Bình) Yêu em hơn mỗi ngày Yêu hết nỗi đau này ( Anh Tú Atus & Koo) Yêu như cách em từng ( Yến Trang ) Chú thích [ sửa | sửa mã nguồn ]",
+                "anchor_html": "<a href=\"/wiki/Thi%E1%BB%81u_B%E1%BA%A3o_Tr%C3%A2m\" title=\"Thiều Bảo Trâm\">Thiều Bảo Trâm</a>",
+                "category": [
+                    "collaborated_with"
+                ]
+            },
+            {
+                "link": "https://vi.wikipedia.org/wiki/Y%E1%BA%BFn_Trang",
+                "context": "A_(sinh_1993)\" title=\"Anh Tú (sinh 1993)\">Anh Tú Atus & Koo) Yêu như cách em từng ( Yến Trang ) </",
+                "anchor_html": "<a href=\"/wiki/Y%E1%BA%BFn_Trang\" title=\"Yến Trang\">Yến Trang</a>",
+                "category": [
+                    "collaborated_with"
+                ]
+            }
+        ],
+        "năm ra mắt": 2010,
+        "năm giải nghệ": null,
+        "Nghề nghiệp khác": [
+            "Ca sĩ",
+            "Nhạc sĩ"
+        ],
+        "Nguyên quán": "Hà Nội",
+        "Hãng đĩa": "Độc lập"
+    },
+    {
+        "depth": 1,
+        "name": "365daband",
+        "Nguyên quán": "Việt Nam",
+        "Thể loại": "Nhạc trẻ",
+        "Năm hoạt động": [
+            "2010–2016",
+            "2017",
+            "2020",
+            "2021"
+        ],
+        "Hãng đĩa": "Vietnam Artist Agency",
+        "Thành viên": [
+            "Isaac",
+            "(Trưởng nhóm)",
+            "Jun Phạm",
+            "Will",
+            "S.T Sơn Thạch"
+        ],
+        "Cựu thành viên": "Tronie Ngô",
+        "Website": "Facebook",
+        "link": "https://vi.wikipedia.org/wiki/365daband",
+        "relations": [],
+        "awards": [
+            "Nhóm nhạc được yêu thích nhất"
+        ],
+        "giới tính": "nam",
+        "năm ra mắt": 2010,
+        "năm giải nghệ": 2021,
+        "Nghề nghiệp khác": null,
+        "ngày sinh": ""
+    },
+    {
+        "depth": 1,
+        "name": "Jun Phạm",
+        "Sinh": [
+            "Phạm Duy Thuận",
+            "24 tháng 7, 1989",
+            "(36 tuổi)",
+            "Thành phố Hồ Chí Minh",
+            ",",
+            "Việt Nam"
+        ],
+        "Quốc tịch": "Việt Nam",
+        "Dân tộc": "Kinh",
+        "Trường lớp": "Trường Đại học Kinh tế Thành phố Hồ Chí Minh",
+        "Chiều cao": "1,75 m (5 ft 9 in)",
+        "Cân nặng": "65 kg (143 lb)",
+        "Cha mẹ": [
+            "Phạm Văn Thu (cha)",
+            "Nguyễn Thị Kim Hoàng (mẹ)"
+        ],
+        "Giải thưởng": "Danh sách",
+        "Nguyên quán": "Thành phố Hồ Chí Minh",
+        "Thể loại": [
+            "V-pop",
+            "R&B",
+            "ballad",
+            "dance-pop",
+            "EDM"
+        ],
+        "Nhạc cụ": "Giọng hát",
+        "Năm hoạt động": "2010–nay",
+        "Hãng đĩa": [
+            "VAA",
+            "Kaizen Production"
+        ],
+        "link": "https://vi.wikipedia.org/wiki/Jun_Ph%E1%BA%A1m",
+        "relations": [],
+        "awards": [],
+        "giới tính": "nam",
+        "năm ra mắt": 2010,
+        "năm giải nghệ": null,
+        "Nghề nghiệp khác": [
+            "Ca sĩ",
+            "Diễn viên",
+            "Nhà văn",
+            "Người dẫn chương trình"
+        ],
+        "ngày sinh": "1989-07-24"
+    },
+    {
+        "depth": 1,
+        "name": "Hồ Hoài Anh",
+        "Sinh": [
+            "27 tháng 12, 1979",
+            "(45 tuổi)",
+            "Hà Nội",
+            ",",
+            "Việt Nam"
+        ],
+        "Quốc tịch": "Việt Nam",
+        "Phối ngẫu": "Lưu Hương Giang (cưới 2009)",
+        "Con cái": "2",
+        "Cha mẹ": [
+            "Thanh Tâm (mẹ)"
+        ],
+        "Giải thưởng": "Danh sách",
+        "Danh hiệu": "Nghệ sĩ Ưu tú (2015)",
+        "Nguyên quán": [
+            "Hà Nội",
+            ",",
+            "Việt Nam",
+            "Thành phố Hồ Chí Minh",
+            ",",
+            "Việt Nam"
+        ],
+        "Thể loại": [
+            "V-pop",
+            "nhạc dân gian",
+            "ballad",
+            "R&B",
+            "dance-pop",
+            "EDM"
+        ],
+        "Nhạc cụ": [
+            "Giọng hát",
+            "đàn bầu",
+            "piano",
+            "synth"
+        ],
+        "link": "https://vi.wikipedia.org/wiki/H%E1%BB%93_Ho%C3%A0i_Anh",
+        "relations": [],
+        "awards": [],
+        "giới tính": "nam",
+        "năm ra mắt": null,
+        "năm giải nghệ": null,
+        "Nghề nghiệp khác": [
+            "Nhạc sĩ",
+            "Nhạc công",
+            "Nhà sản xuất thu âm",
+            "giảng viên",
+            "chỉ đạo nghệ thuật"
+        ],
+        "ngày sinh": "1979-12-27",
+        "Hãng đĩa": "Độc lập"
+    },
+    {
+        "depth": 1,
+        "name": "Amee",
+        "Sinh": [
+            "Trần Huyền My",
+            "23 tháng 3, 2000",
+            "(25 tuổi)",
+            "Hà Nội",
+            ",",
+            "Việt Nam"
+        ],
+        "Quốc tịch": "Việt Nam",
+        "Trường lớp": [
+            "Trường Trung học phổ thông Việt Đức",
+            "Trường Đại học Văn Hiến"
+        ],
+        "Năm hoạt động": "2019–nay",
+        "Tác phẩm nổi bật": "Danh sách",
+        "Giải thưởng": "Danh sách",
+        "Nguyên quán": "Thành phố Hồ Chí Minh",
+        "Thể loại": [
+            "V-pop",
+            "R&B",
+            "soul",
+            "dance-pop"
+        ],
+        "Nhạc cụ": "Giọng hát",
+        "Hãng đĩa": "St.319 Entertainment",
+        "link": "https://vi.wikipedia.org/wiki/Amee",
+        "relations": [],
+        "awards": [],
+        "giới tính": "nam",
+        "năm ra mắt": 2019,
+        "năm giải nghệ": null,
+        "Nghề nghiệp khác": [
+            "Ca sĩ",
+            "Diễn viên"
+        ],
+        "ngày sinh": "2000-03-23"
+    },
+    {
+        "depth": 1,
+        "name": "Chi Pu",
+        "Sinh": [
+            "Nguyễn Thùy Chi",
+            "14 tháng 6, 1993",
+            "(32 tuổi)",
+            "Hà Nội",
+            ",",
+            "Việt Nam"
+        ],
+        "Quốc tịch": "Việt Nam",
+        "Dân tộc": "Kinh",
+        "Trường lớp": "Đại học RMIT (bảo lưu/chưa tốt nghiệp)",
+        "Năm hoạt động": "2009–nay",
+        "Tổ chức": "The First Management",
+        "Nổi tiếng vì": "lọt Top 20 Miss Teen Việt Nam 2009",
+        "Chiều cao": "1,63 m (5 ft 4 in)",
+        "Cân nặng": "51 kg (112 lb )",
+        "Cha mẹ": [
+            "Nguyễn Dũng Tuấn (cha)"
+        ],
+        "Giải thưởng": "Danh sách",
+        "Danh hiệu": [
+            "Giải nhấtLiên hoan đàn Organ thành phố Hà Nội 2003",
+            "Giải đồngBước nhảy Hoàn vũ 2015"
+        ],
+        "link": "https://vi.wikipedia.org/wiki/Chi_Pu",
+        "relations": [],
+        "awards": [
+            "Stay With Me",
+            "Hát Cho Tình Bạn"
+        ],
+        "giới tính": "nam",
+        "năm ra mắt": 2009,
+        "năm giải nghệ": null,
+        "Nghề nghiệp khác": [
+            "Ca sĩ",
+            "Diễn viên",
+            "Người mẫu",
+            "Nhân vật truyền hình"
+        ],
+        "Nguyên quán": "Hà Nội",
+        "ngày sinh": "1993-06-14",
+        "Hãng đĩa": "Độc lập"
+    },
+    {
+        "depth": 1,
+        "name": "Khánh",
+        "Sinh": [
+            "Nguyễn Bảo Khánh",
+            "12 tháng 7, 1999",
+            "(26 tuổi)",
+            "Cần Thơ",
+            ",",
+            "Việt Nam"
+        ],
+        "Tên khác": "K-ICM",
+        "Năm hoạt động": "2016–nay",
+        "Thể loại": [
+            "V-pop",
+            "EDM"
+        ],
+        "Nhạc cụ": [
+            "Piano",
+            "organ",
+            "keytar",
+            "sáo",
+            "đàn nhị"
+        ],
+        "Hãng đĩa": [
+            "Great Entertainment",
+            "Key Music",
+            "ICM Entertainment"
+        ],
+        "link": "https://vi.wikipedia.org/wiki/K-ICM",
+        "relations": [],
+        "awards": [],
+        "giới tính": "nam",
+        "năm ra mắt": 2016,
+        "năm giải nghệ": null,
+        "Nghề nghiệp khác": [
+            "Nhạc sĩ",
+            "Nhà sản xuất thu âm",
+            "Nhạc công",
+            "DJ"
+        ],
+        "Nguyên quán": "",
+        "ngày sinh": "1999-07-12"
+    },
+    {
+        "depth": 1,
+        "name": "Anh Tú Atus",
+        "Sinh": [
+            "Bùi Anh Tú",
+            "3 tháng 10, 1993",
+            "(32 tuổi)",
+            "Hà Nội",
+            ",",
+            "Việt Nam"
+        ],
+        "Quốc tịch": "Việt Nam",
+        "Tên khác": [
+            "Tú Sĩ",
+            "Tú Tút",
+            "Atus"
+        ],
+        "Trường lớp": "Trường Đại học Sân khấu – Điện ảnh Thành phố Hồ Chí Minh",
+        "Năm hoạt động": "2012–nay",
+        "Chiều cao": "1,73 m (5 ft 8 in)",
+        "Phối ngẫu": "Diệu Nhi (cưới 2022)",
+        "link": "https://vi.wikipedia.org/wiki/Anh_T%C3%BA_(sinh_1993)",
+        "relations": [],
+        "awards": [],
+        "giới tính": "nam",
+        "năm ra mắt": 2012,
+        "năm giải nghệ": null,
+        "Nghề nghiệp khác": [
+            "Diễn viên",
+            "Ca sĩ"
+        ],
+        "Nguyên quán": "",
+        "ngày sinh": "1993-10-03",
+        "Hãng đĩa": "Độc lập"
+    },
+    {
+        "depth": 1,
+        "name": "Hương Giang Idol",
+        "Sinh": [
+            "Nguyễn Ngọc Hiếu",
+            "29 tháng 12, 1991",
+            "(33 tuổi)",
+            "[",
+            "1",
+            "]",
+            "[",
+            "2",
+            "]",
+            "Hà Nội",
+            ",",
+            "Việt Nam"
+        ],
+        "Quốc tịch": "Việt Nam",
+        "Tên khác": "Hương Giang Idol",
+        "Dân tộc": "Kinh",
+        "Trường lớp": [
+            "Trường Trung học phổ thông Đống Đa",
+            "Trường Cao đẳng Nghệ thuật Hà Nội"
+        ],
+        "Năm hoạt động": "2010–nay",
+        "Chiều cao": "1,7 m (5 ft 7 in)",
+        "Giải thưởng": "Danh sách",
+        "Số đo": "86 – 56 – 90",
+        "Cuộc thi lớn": [
+            "Hoa hậu Chuyển giới Quốc tế 2018(Chiến thắng)",
+            "Hoa hậu Hoàn vũ 2025(Tham dự)"
+        ],
+        "Nguyên quán": "Thành phố Hồ Chí Minh",
+        "Thể loại": [
+            "V-pop",
+            "ballad",
+            "R&B",
+            "dance-pop",
+            "EDM"
+        ],
+        "Nhạc cụ": "Giọng hát",
+        "link": "https://vi.wikipedia.org/wiki/H%C6%B0%C6%A1ng_Giang_(ngh%E1%BB%87_s%C4%A9)",
+        "relations": [],
+        "awards": [],
+        "giới tính": "nam",
+        "năm ra mắt": 2010,
+        "năm giải nghệ": null,
+        "Nghề nghiệp khác": [
+            "Ca sĩ",
+            "Diễn viên",
+            "Người mẫu",
+            "Nhân vật truyền hình"
+        ],
+        "ngày sinh": "1991-12-29",
+        "Hãng đĩa": "Độc lập"
+    },
+    {
+        "depth": 1,
+        "name": "Đức Phúc",
+        "Sinh": [
+            "Nguyễn Đức Phúc",
+            "15 tháng 10, 1996",
+            "(29 tuổi)",
+            "Hà Nội",
+            ",",
+            "Việt Nam"
+        ],
+        "Quốc tịch": "Việt Nam",
+        "Nguyên quán": "Thành phố Hồ Chí Minh",
+        "Thể loại": [
+            "V-pop",
+            "R&B",
+            "dance-pop",
+            "EDM",
+            "ballad"
+        ],
+        "Nhạc cụ": "Giọng hát",
+        "Năm hoạt động": "2015–nay",
+        "link": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%A9c_Ph%C3%BAc",
+        "relations": [],
+        "awards": [
+            "VLive Awards 2020",
+            "Harper's Bazaar Star Awards",
+            "Giải thưởng âm nhạc Cống hiến",
+            "Zing MP3 - Best of 2022",
+            "Ấn tượng VTV",
+            "Làn Sóng Xanh",
+            "Best Of 360 Độ Soi",
+            "Keeng Young Awards 2017"
+        ],
+        "giới tính": "nam",
+        "năm ra mắt": 2015,
+        "năm giải nghệ": null,
+        "Nghề nghiệp khác": "Ca sĩ",
+        "ngày sinh": "1996-10-15",
+        "Hãng đĩa": "Độc lập"
+    },
+    {
+        "depth": 1,
+        "name": "Trịnh Thăng Bình",
+        "Tên khai sinh": "Trịnh Thăng Bình",
+        "Sinh": [
+            "30 tháng 4, 1988",
+            "(37 tuổi)",
+            "Thành phố Hồ Chí Minh",
+            ",",
+            "Việt Nam"
+        ],
+        "Thể loại": "Nhạc trẻ",
+        "Năm hoạt động": "2006 – nay",
+        "link": "https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh_Th%C4%83ng_B%C3%ACnh",
+        "relations": [],
+        "awards": [
+            "Anh muốn nói[3] Em đừng quay về đây[4]",
+            "Đến cuối cùng Bức bình phong[2]"
+        ],
+        "giới tính": "nam",
+        "năm ra mắt": 2006,
+        "năm giải nghệ": null,
+        "Nghề nghiệp khác": [
+            "Ca sĩ",
+            "Nhạc sĩ",
+            "Diễn viên",
+            "Nhà sản xuất âm nhạc",
+            "Người dẫn chương trình"
+        ],
+        "Nguyên quán": "",
+        "ngày sinh": "1988-04-30",
+        "Hãng đĩa": "Độc lập"
+    },
+    {
+        "depth": 1,
+        "name": "Dương Hoàng Yến",
+        "Sinh": [
+            "15 tháng 6, 1991",
+            "(34 tuổi)",
+            "Hà Nội",
+            ",",
+            "Việt Nam"
+        ],
+        "Quốc tịch": "Việt Nam",
+        "Năm hoạt động": "2008–nay",
+        "Quê quán": "Bắc Ninh , Việt Nam",
+        "Nguyên quán": "Hà Nội",
+        "Thể loại": [
+            "V-pop",
+            "R&B",
+            "dance-pop",
+            "ballad",
+            "nhạc tiền chiến",
+            "nhạc đỏ"
+        ],
+        "Nhạc cụ": "Giọng hát",
+        "link": "https://vi.wikipedia.org/wiki/D%C6%B0%C6%A1ng_Ho%C3%A0ng_Y%E1%BA%BFn",
+        "relations": [],
+        "awards": [],
+        "giới tính": "nam",
+        "năm ra mắt": 2008,
+        "năm giải nghệ": null,
+        "Nghề nghiệp khác": [
+            "Ca sĩ",
+            "Giảng viên"
+        ],
+        "ngày sinh": "1991-06-15",
+        "Hãng đĩa": "Độc lập"
+    },
+    {
+        "depth": 1,
+        "name": "Gil Lê",
+        "Sinh": [
+            "Lê Thanh Trúc",
+            "8 tháng 7, 1991",
+            "(34 tuổi)",
+            "Thành phố Hồ Chí Minh",
+            ",",
+            "Việt Nam"
+        ],
+        "Quốc tịch": "Việt Nam",
+        "Dân tộc": "Kinh",
+        "Năm hoạt động": "2008–nay",
+        "link": "https://vi.wikipedia.org/wiki/Gil_L%C3%AA",
+        "relations": [],
+        "awards": [],
+        "giới tính": "nam",
+        "năm ra mắt": 2008,
+        "năm giải nghệ": null,
+        "Nghề nghiệp khác": [
+            "Ca sĩ",
+            "Diễn viên",
+            "Người dẫn chương trình"
+        ],
+        "Nguyên quán": "",
+        "ngày sinh": "1991-07-08",
+        "Hãng đĩa": "Độc lập"
+    },
+    {
+        "depth": 1,
+        "name": "Quốc Thiên",
+        "Sinh": [
+            "Trần Quốc Thiên",
+            "9 tháng 4, 1988",
+            "(37 tuổi)",
+            "Gia Kiệm",
+            ",",
+            "Thống Nhất",
+            ",",
+            "Đồng Nai",
+            ",",
+            "Việt Nam"
+        ],
+        "Quốc tịch": "Việt Nam",
+        "Năm hoạt động": "2007 – nay",
+        "Quê quán": "Hà Nội , Việt Nam",
+        "Chiều cao": "1,72 m (5 ft 8 in)",
+        "Cân nặng": "66 kg (146 lb)",
+        "Nguyên quán": "Thành phố Hồ Chí Minh",
+        "Thể loại": [
+            "V-pop",
+            "ballad",
+            "R&B"
+        ],
+        "Nhạc cụ": "Giọng hát",
+        "link": "https://vi.wikipedia.org/wiki/Qu%E1%BB%91c_Thi%C3%AAn",
+        "relations": [],
+        "awards": [],
+        "giới tính": "nam",
+        "năm ra mắt": 2007,
+        "năm giải nghệ": null,
+        "Nghề nghiệp khác": "Ca sĩ",
+        "ngày sinh": "1988-04-09",
+        "Hãng đĩa": "Độc lập"
+    },
+    {
+        "depth": 1,
+        "name": "Phạm Quỳnh Anh",
+        "Sinh": [
+            "Phạm Quỳnh Anh",
+            "24 tháng 8, 1984",
+            "(41 tuổi)",
+            "Hà Nội",
+            ",",
+            "Việt Nam"
+        ],
+        "Quốc tịch": "Việt Nam",
+        "Phối ngẫu": [
+            "Quang Huy",
+            "(cưới 2012⁠–⁠",
+            "ld.",
+            "2018)"
+        ],
+        "Con cái": "3",
+        "Nguyên quán": "Thành phố Hồ Chí Minh",
+        "Thể loại": [
+            "V-pop",
+            "teen pop",
+            "ballad",
+            "R&B",
+            "dance-pop"
+        ],
+        "Nhạc cụ": "Giọng hát",
+        "Năm hoạt động": "1997–nay",
+        "link": "https://vi.wikipedia.org/wiki/Ph%E1%BA%A1m_Qu%E1%BB%B3nh_Anh",
+        "relations": [],
+        "awards": [],
+        "giới tính": "nam",
+        "năm ra mắt": 1997,
+        "năm giải nghệ": null,
+        "Nghề nghiệp khác": [
+            "Ca sĩ",
+            "Diễn viên"
+        ],
+        "ngày sinh": "1984-08-24",
+        "Hãng đĩa": "Độc lập"
+    },
+    {
+        "depth": 1,
+        "name": "Khương Ngọc",
+        "Sinh": [
+            "Huỳnh Quang Ngọc",
+            "26 tháng 7, 1984",
+            "(41 tuổi)",
+            "Nha Trang",
+            ",",
+            "Khánh Hòa",
+            ",",
+            "Việt Nam"
+        ],
+        "Quốc tịch": "Việt Nam",
+        "Dân tộc": "Kinh",
+        "Trường lớp": "Trường Đại học Sân khấu - Điện ảnh Thành phố Hồ Chí Minh",
+        "Năm hoạt động": "2003–nay",
+        "Chiều cao": "1,8 m (5 ft 11 in)",
+        "Phối ngẫu": "Hải Yến (cưới 2022)",
+        "Con cái": "1",
+        "link": "https://vi.wikipedia.org/wiki/Kh%C6%B0%C6%A1ng_Ng%E1%BB%8Dc",
+        "relations": [],
+        "awards": [
+            "Lê Hùng"
+        ],
+        "giới tính": "nam",
+        "năm ra mắt": 2003,
+        "năm giải nghệ": null,
+        "Nghề nghiệp khác": [
+            "Diễn viên",
+            "Người dẫn chương trình",
+            "Nhạc sĩ",
+            "Ca sĩ",
+            "Nhà làm phim"
+        ],
+        "Nguyên quán": "",
+        "ngày sinh": "1984-07-26",
+        "Hãng đĩa": "Độc lập"
+    },
+    {
+        "depth": 1,
+        "name": "Gin Tuấn Kiệt",
+        "Sinh": [
+            "Nguyễn Tuấn Kiệt",
+            "6 tháng 9, 1994",
+            "(31 tuổi)",
+            "Thành phố Huế",
+            ",",
+            "Việt Nam"
+        ],
+        "Quốc tịch": "Việt Nam",
+        "Dân tộc": "Kinh",
+        "Năm hoạt động": "2011–nay",
+        "Chiều cao": "1,74 m (5 ft 9 in)",
+        "Tôn giáo": "Công giáo",
+        "Phối ngẫu": "Puka (cưới 2023)",
+        "Con cái": "1",
+        "Giải thưởng": "Danh sách",
+        "link": "https://vi.wikipedia.org/wiki/Gin_Tu%E1%BA%A5n_Ki%E1%BB%87t",
+        "relations": [],
+        "awards": [],
+        "giới tính": "nam",
+        "năm ra mắt": 2011,
+        "năm giải nghệ": null,
+        "Nghề nghiệp khác": [
+            "Diễn viên",
+            "Ca sĩ"
+        ],
+        "Nguyên quán": "",
+        "ngày sinh": "1994-09-06",
+        "Hãng đĩa": "Độc lập"
+    },
+    {
+        "depth": 1,
+        "name": "Thùy Chi",
+        "Sinh": [
+            "Trần Thùy Chi",
+            "4 tháng 5, 1990",
+            "(35 tuổi)",
+            "Hải Dương",
+            ",",
+            "Việt Nam"
+        ],
+        "Quốc tịch": "Việt Nam",
+        "Dân tộc": "Kinh",
+        "Trường lớp": "Học viện Âm nhạc Quốc gia Việt Nam",
+        "Năm hoạt động": "2005–nay",
+        "Chiều cao": "1,59 m (5 ft 3 in)",
+        "Cân nặng": "48 kg (106 lb)",
+        "Nguyên quán": "Thành phố Hồ Chí Minh",
+        "Thể loại": [
+            "V-pop",
+            "ballad",
+            "dance-pop",
+            "EDM",
+            "R&B",
+            "pop rock",
+            "pop soul"
+        ],
+        "Nhạc cụ": [
+            "Giọng hát",
+            "piano"
+        ],
+        "link": "https://vi.wikipedia.org/wiki/Th%C3%B9y_Chi",
+        "relations": [],
+        "awards": [],
+        "giới tính": "nam",
+        "năm ra mắt": 2005,
+        "năm giải nghệ": null,
+        "Nghề nghiệp khác": [
+            "Ca sĩ",
+            "Giảng viên"
+        ],
+        "ngày sinh": "1990-05-04",
+        "Hãng đĩa": "Độc lập"
+    },
+    {
+        "depth": 1,
+        "name": "Thiều Bảo Trâm",
+        "Sinh": [
+            "Thiều Thị Trâm",
+            "20 tháng 9, 1994",
+            "(31 tuổi)",
+            "Thanh Hóa",
+            ",",
+            "Việt Nam"
+        ],
+        "Quốc tịch": "Việt Nam",
+        "Trường lớp": "Trường cao đẳng Văn hóa Nghệ thuật Hà Nội",
+        "Năm hoạt động": "2013–nay",
+        "Tác phẩm nổi bật": "Danh sách",
+        "Người thân": [
+            "Thiều Bảo Trang(chị gái)",
+            "Thiều Khánh Điệp(chị gái)",
+            "Thiều Anh Đào(chị gái)"
+        ],
+        "Giải thưởng": "Danh sách",
+        "Nguyên quán": "Thành phố Hồ Chí Minh",
+        "Thể loại": [
+            "V-pop",
+            "R&B",
+            "soul",
+            "dance-pop"
+        ],
+        "Nhạc cụ": "Giọng hát",
+        "link": "https://vi.wikipedia.org/wiki/Thi%E1%BB%81u_B%E1%BA%A3o_Tr%C3%A2m",
+        "relations": [],
+        "awards": [],
+        "giới tính": "nam",
+        "năm ra mắt": 2013,
+        "năm giải nghệ": null,
+        "Nghề nghiệp khác": "Ca sĩ",
+        "ngày sinh": "1994-09-20",
+        "Hãng đĩa": "Độc lập"
+    },
+    {
+        "depth": 1,
+        "name": "Yến Trang",
+        "Sinh": [
+            "Nguyễn Yến Trang",
+            "15 tháng 4, 1984",
+            "(41 tuổi)",
+            "Thành phố Hồ Chí Minh",
+            ",",
+            "Việt Nam"
+        ],
+        "Quốc tịch": "Việt Nam",
+        "Giải thưởng": "Danh sách",
+        "Nguyên quán": "Thành phố Hồ Chí Minh",
+        "Thể loại": [
+            "V-pop",
+            "dance-pop",
+            "ballad",
+            "R&B",
+            "EDM"
+        ],
+        "Nhạc cụ": "Giọng hát",
+        "Năm hoạt động": "2000nay",
+        "link": "https://vi.wikipedia.org/wiki/Y%E1%BA%BFn_Trang",
+        "relations": [],
+        "awards": [
+            "Bước nhảy hoàn vũ"
+        ],
+        "giới tính": "nam",
+        "năm ra mắt": null,
+        "năm giải nghệ": null,
+        "Nghề nghiệp khác": "Ca sĩ Diễn viên người dẫn chương trình",
+        "ngày sinh": "1984-04-15",
+        "Hãng đĩa": "Độc lập"
+    }
+]
