@@ -1,0 +1,1804 @@
+{
+  "status" : "success",
+  "result" : [ {
+    "source" : "R&B",
+    "target" : "V-pop",
+    "weight" : 102
+  }, {
+    "source" : "V-pop",
+    "target" : "ballad",
+    "weight" : 76
+  }, {
+    "source" : "R&B",
+    "target" : "ballad",
+    "weight" : 71
+  }, {
+    "source" : "V-pop",
+    "target" : "dance-pop",
+    "weight" : 52
+  }, {
+    "source" : "R&B",
+    "target" : "dance-pop",
+    "weight" : 50
+  }, {
+    "source" : "EDM",
+    "target" : "V-pop",
+    "weight" : 38
+  }, {
+    "source" : "ballad",
+    "target" : "dance-pop",
+    "weight" : 37
+  }, {
+    "source" : "EDM",
+    "target" : "R&B",
+    "weight" : 36
+  }, {
+    "source" : "EDM",
+    "target" : "dance-pop",
+    "weight" : 30
+  }, {
+    "source" : "EDM",
+    "target" : "ballad",
+    "weight" : 26
+  }, {
+    "source" : "V-pop",
+    "target" : "jazz",
+    "weight" : 11
+  }, {
+    "source" : "Hip hop",
+    "target" : "V-pop",
+    "weight" : 7
+  }, {
+    "source" : "Nhạc tiền chiến",
+    "target" : "Nhạc vàng",
+    "weight" : 6
+  }, {
+    "source" : "V-pop",
+    "target" : "bolero",
+    "weight" : 6
+  }, {
+    "source" : "V-pop",
+    "target" : "soul",
+    "weight" : 6
+  }, {
+    "source" : "R&B",
+    "target" : "soul",
+    "weight" : 6
+  }, {
+    "source" : "V-pop",
+    "target" : "nhạc tiền chiến",
+    "weight" : 5
+  }, {
+    "source" : "R&B",
+    "target" : "jazz",
+    "weight" : 5
+  }, {
+    "source" : "V-pop",
+    "target" : "nhạc điện tử",
+    "weight" : 5
+  }, {
+    "source" : "Nhạc quê hương",
+    "target" : "Nhạc vàng",
+    "weight" : 4
+  }, {
+    "source" : "R&B",
+    "target" : "bolero",
+    "weight" : 4
+  }, {
+    "source" : "ballad",
+    "target" : "bolero",
+    "weight" : 4
+  }, {
+    "source" : "V-pop",
+    "target" : "folktronica",
+    "weight" : 4
+  }, {
+    "source" : "EDM",
+    "target" : "folktronica",
+    "weight" : 4
+  }, {
+    "source" : "V-pop",
+    "target" : "hip-hop",
+    "weight" : 4
+  }, {
+    "source" : "R&B",
+    "target" : "hip-hop",
+    "weight" : 4
+  }, {
+    "source" : "V-pop",
+    "target" : "nhạc trữ tình",
+    "weight" : 4
+  }, {
+    "source" : "Nhạc tiền chiến",
+    "target" : "Tình khúc 1954–1975",
+    "weight" : 4
+  }, {
+    "source" : "Nhạc vàng",
+    "target" : "Tình khúc 1954–1975",
+    "weight" : 4
+  }, {
+    "source" : "jazz",
+    "target" : "nhạc điện tử",
+    "weight" : 4
+  }, {
+    "source" : "V-pop",
+    "target" : "teen pop",
+    "weight" : 4
+  }, {
+    "source" : "R&B",
+    "target" : "teen pop",
+    "weight" : 4
+  }, {
+    "source" : "ballad",
+    "target" : "teen pop",
+    "weight" : 4
+  }, {
+    "source" : "V-pop",
+    "target" : "hip hop",
+    "weight" : 4
+  }, {
+    "source" : "V-pop",
+    "target" : "alternative rock",
+    "weight" : 4
+  }, {
+    "source" : "V-pop",
+    "target" : "indie",
+    "weight" : 4
+  }, {
+    "source" : "V-pop",
+    "target" : "pop rock",
+    "weight" : 4
+  }, {
+    "source" : "R&B",
+    "target" : "pop rock",
+    "weight" : 4
+  }, {
+    "source" : "ballad",
+    "target" : "pop rock",
+    "weight" : 4
+  }, {
+    "source" : "Dance-pop",
+    "target" : "V-pop",
+    "weight" : 3
+  }, {
+    "source" : "Nhạc trẻ",
+    "target" : "Nhạc vàng",
+    "weight" : 3
+  }, {
+    "source" : "Nhạc vàng",
+    "target" : "Tình khúc 1954-1975",
+    "weight" : 3
+  }, {
+    "source" : "Nhạc tiền chiến",
+    "target" : "Tình khúc 1954-1975",
+    "weight" : 3
+  }, {
+    "source" : "bolero",
+    "target" : "dance-pop",
+    "weight" : 3
+  }, {
+    "source" : "R&B",
+    "target" : "folktronica",
+    "weight" : 3
+  }, {
+    "source" : "dance-pop",
+    "target" : "folktronica",
+    "weight" : 3
+  }, {
+    "source" : "dance-pop",
+    "target" : "soul",
+    "weight" : 3
+  }, {
+    "source" : "dance-pop",
+    "target" : "hip-hop",
+    "weight" : 3
+  }, {
+    "source" : "jazz",
+    "target" : "nhạc tiền chiến",
+    "weight" : 3
+  }, {
+    "source" : "V-pop",
+    "target" : "nhạc vàng",
+    "weight" : 3
+  }, {
+    "source" : "dân gian đương đại",
+    "target" : "jazz",
+    "weight" : 3
+  }, {
+    "source" : "alternative rock",
+    "target" : "jazz",
+    "weight" : 3
+  }, {
+    "source" : "V-pop",
+    "target" : "rock",
+    "weight" : 3
+  }, {
+    "source" : "V-pop",
+    "target" : "nhạc đỏ",
+    "weight" : 3
+  }, {
+    "source" : "nhạc tiền chiến",
+    "target" : "nhạc đỏ",
+    "weight" : 3
+  }, {
+    "source" : "V-pop",
+    "target" : "dân gian đương đại",
+    "weight" : 3
+  }, {
+    "source" : "Nhạc vàng",
+    "target" : "Vọng cổ",
+    "weight" : 3
+  }, {
+    "source" : "Nhạc quê hương",
+    "target" : "Vọng cổ",
+    "weight" : 3
+  }, {
+    "source" : "Nhạc hải ngoại",
+    "target" : "Nhạc trẻ",
+    "weight" : 3
+  }, {
+    "source" : "jazz",
+    "target" : "world music",
+    "weight" : 3
+  }, {
+    "source" : "V-pop",
+    "target" : "folk",
+    "weight" : 3
+  }, {
+    "source" : "V-pop",
+    "target" : "new-age",
+    "weight" : 3
+  }, {
+    "source" : "jazz",
+    "target" : "new-age",
+    "weight" : 3
+  }, {
+    "source" : "new-age",
+    "target" : "nhạc điện tử",
+    "weight" : 3
+  }, {
+    "source" : "indie",
+    "target" : "nhạc điện tử",
+    "weight" : 3
+  }, {
+    "source" : "dance-pop",
+    "target" : "teen pop",
+    "weight" : 3
+  }, {
+    "source" : "EDM",
+    "target" : "teen pop",
+    "weight" : 3
+  }, {
+    "source" : "R&B",
+    "target" : "hip hop",
+    "weight" : 3
+  }, {
+    "source" : "Acoustic",
+    "target" : "Pop rock",
+    "weight" : 2
+  }, {
+    "source" : "Dân gian đương đại",
+    "target" : "Pop rock",
+    "weight" : 2
+  }, {
+    "source" : "Nhạc vàng",
+    "target" : "Pop rock",
+    "weight" : 2
+  }, {
+    "source" : "Nhạc đỏ",
+    "target" : "Pop rock",
+    "weight" : 2
+  }, {
+    "source" : "Nhạc tiền chiến",
+    "target" : "Pop rock",
+    "weight" : 2
+  }, {
+    "source" : "Bolero",
+    "target" : "Pop rock",
+    "weight" : 2
+  }, {
+    "source" : "Pop rock",
+    "target" : "V-pop",
+    "weight" : 2
+  }, {
+    "source" : "Acoustic",
+    "target" : "V-pop",
+    "weight" : 2
+  }, {
+    "source" : "Dân gian đương đại",
+    "target" : "V-pop",
+    "weight" : 2
+  }, {
+    "source" : "Nhạc vàng",
+    "target" : "V-pop",
+    "weight" : 2
+  }, {
+    "source" : "Nhạc đỏ",
+    "target" : "V-pop",
+    "weight" : 2
+  }, {
+    "source" : "Tình khúc 1954-1975",
+    "target" : "V-pop",
+    "weight" : 2
+  }, {
+    "source" : "Nhạc tiền chiến",
+    "target" : "V-pop",
+    "weight" : 2
+  }, {
+    "source" : "Bolero",
+    "target" : "V-pop",
+    "weight" : 2
+  }, {
+    "source" : "Cải lương",
+    "target" : "V-pop",
+    "weight" : 2
+  }, {
+    "source" : "Dân ca Việt Nam",
+    "target" : "V-pop",
+    "weight" : 2
+  }, {
+    "source" : "Bolero Việt Nam",
+    "target" : "V-pop",
+    "weight" : 2
+  }, {
+    "source" : "Pop rock",
+    "target" : "R&B",
+    "weight" : 2
+  }, {
+    "source" : "Acoustic",
+    "target" : "R&B",
+    "weight" : 2
+  }, {
+    "source" : "Dân gian đương đại",
+    "target" : "R&B",
+    "weight" : 2
+  }, {
+    "source" : "Nhạc vàng",
+    "target" : "R&B",
+    "weight" : 2
+  }, {
+    "source" : "Nhạc đỏ",
+    "target" : "R&B",
+    "weight" : 2
+  }, {
+    "source" : "Nhạc tiền chiến",
+    "target" : "R&B",
+    "weight" : 2
+  }, {
+    "source" : "Bolero",
+    "target" : "R&B",
+    "weight" : 2
+  }, {
+    "source" : "Dance pop",
+    "target" : "R&B",
+    "weight" : 2
+  }, {
+    "source" : "Dance-pop",
+    "target" : "R&B",
+    "weight" : 2
+  }, {
+    "source" : "Hip hop",
+    "target" : "R&B",
+    "weight" : 2
+  }, {
+    "source" : "Acoustic",
+    "target" : "Dân gian đương đại",
+    "weight" : 2
+  }, {
+    "source" : "Bolero",
+    "target" : "Dân gian đương đại",
+    "weight" : 2
+  }, {
+    "source" : "Acoustic",
+    "target" : "Nhạc vàng",
+    "weight" : 2
+  }, {
+    "source" : "Dân gian đương đại",
+    "target" : "Nhạc vàng",
+    "weight" : 2
+  }, {
+    "source" : "Bolero",
+    "target" : "Nhạc vàng",
+    "weight" : 2
+  }, {
+    "source" : "Cải lương",
+    "target" : "Nhạc vàng",
+    "weight" : 2
+  }, {
+    "source" : "Nhạc trữ tình nói chung",
+    "target" : "Nhạc vàng",
+    "weight" : 2
+  }, {
+    "source" : "Acoustic",
+    "target" : "Nhạc đỏ",
+    "weight" : 2
+  }, {
+    "source" : "Dân gian đương đại",
+    "target" : "Nhạc đỏ",
+    "weight" : 2
+  }, {
+    "source" : "Nhạc vàng",
+    "target" : "Nhạc đỏ",
+    "weight" : 2
+  }, {
+    "source" : "Nhạc tiền chiến",
+    "target" : "Nhạc đỏ",
+    "weight" : 2
+  }, {
+    "source" : "Bolero",
+    "target" : "Nhạc đỏ",
+    "weight" : 2
+  }, {
+    "source" : "Pop rock",
+    "target" : "Tình khúc 1954-1975",
+    "weight" : 2
+  }, {
+    "source" : "Acoustic",
+    "target" : "Tình khúc 1954-1975",
+    "weight" : 2
+  }, {
+    "source" : "R&B",
+    "target" : "Tình khúc 1954-1975",
+    "weight" : 2
+  }, {
+    "source" : "Dân gian đương đại",
+    "target" : "Tình khúc 1954-1975",
+    "weight" : 2
+  }, {
+    "source" : "Nhạc đỏ",
+    "target" : "Tình khúc 1954-1975",
+    "weight" : 2
+  }, {
+    "source" : "Bolero",
+    "target" : "Tình khúc 1954-1975",
+    "weight" : 2
+  }, {
+    "source" : "Acoustic",
+    "target" : "Nhạc tiền chiến",
+    "weight" : 2
+  }, {
+    "source" : "Dân gian đương đại",
+    "target" : "Nhạc tiền chiến",
+    "weight" : 2
+  }, {
+    "source" : "Bolero",
+    "target" : "Nhạc tiền chiến",
+    "weight" : 2
+  }, {
+    "source" : "Nhạc hải ngoại",
+    "target" : "Nhạc tiền chiến",
+    "weight" : 2
+  }, {
+    "source" : "Acoustic",
+    "target" : "Bolero",
+    "weight" : 2
+  }, {
+    "source" : "alternative rock",
+    "target" : "ballad",
+    "weight" : 2
+  }, {
+    "source" : "Dance-pop",
+    "target" : "EDM",
+    "weight" : 2
+  }, {
+    "source" : "jazz",
+    "target" : "soul",
+    "weight" : 2
+  }, {
+    "source" : "V-pop",
+    "target" : "funk",
+    "weight" : 2
+  }, {
+    "source" : "R&B",
+    "target" : "funk",
+    "weight" : 2
+  }, {
+    "source" : "EDM",
+    "target" : "hip-hop",
+    "weight" : 2
+  }, {
+    "source" : "folktronica",
+    "target" : "hip-hop",
+    "weight" : 2
+  }, {
+    "source" : "R&B",
+    "target" : "nhạc tiền chiến",
+    "weight" : 2
+  }, {
+    "source" : "ballad",
+    "target" : "nhạc tiền chiến",
+    "weight" : 2
+  }, {
+    "source" : "folk",
+    "target" : "nhạc tiền chiến",
+    "weight" : 2
+  }, {
+    "source" : "nhạc nhẹ",
+    "target" : "nhạc tiền chiến",
+    "weight" : 2
+  }, {
+    "source" : "R&B",
+    "target" : "nhạc vàng",
+    "weight" : 2
+  }, {
+    "source" : "ballad",
+    "target" : "nhạc vàng",
+    "weight" : 2
+  }, {
+    "source" : "jazz",
+    "target" : "nhạc trữ tình",
+    "weight" : 2
+  }, {
+    "source" : "new-age",
+    "target" : "nhạc trữ tình",
+    "weight" : 2
+  }, {
+    "source" : "alternative rock",
+    "target" : "nhạc trữ tình",
+    "weight" : 2
+  }, {
+    "source" : "indie",
+    "target" : "nhạc trữ tình",
+    "weight" : 2
+  }, {
+    "source" : "R&B",
+    "target" : "nhạc trữ tình",
+    "weight" : 2
+  }, {
+    "source" : "ballad",
+    "target" : "nhạc trữ tình",
+    "weight" : 2
+  }, {
+    "source" : "V-pop",
+    "target" : "dân ca Việt Nam",
+    "weight" : 2
+  }, {
+    "source" : "bolero",
+    "target" : "dân ca Việt Nam",
+    "weight" : 2
+  }, {
+    "source" : "folk",
+    "target" : "jazz",
+    "weight" : 2
+  }, {
+    "source" : "blues",
+    "target" : "jazz",
+    "weight" : 2
+  }, {
+    "source" : "indie",
+    "target" : "jazz",
+    "weight" : 2
+  }, {
+    "source" : "V-pop",
+    "target" : "acoustic",
+    "weight" : 2
+  }, {
+    "source" : "jazz",
+    "target" : "nhạc đỏ",
+    "weight" : 2
+  }, {
+    "source" : "V-pop",
+    "target" : "tình khúc 1954–1975",
+    "weight" : 2
+  }, {
+    "source" : "Bolero Việt Nam",
+    "target" : "Cải lương",
+    "weight" : 2
+  }, {
+    "source" : "Cải lương",
+    "target" : "Vọng cổ",
+    "weight" : 2
+  }, {
+    "source" : "Cải lương",
+    "target" : "Nhạc quê hương",
+    "weight" : 2
+  }, {
+    "source" : "Nhạc hải ngoại",
+    "target" : "Tình khúc 1954–1975",
+    "weight" : 2
+  }, {
+    "source" : "Nhạc trẻ",
+    "target" : "Tình khúc 1954–1975",
+    "weight" : 2
+  }, {
+    "source" : "Nhạc tiền chiến",
+    "target" : "Nhạc trẻ",
+    "weight" : 2
+  }, {
+    "source" : "V-pop",
+    "target" : "world music",
+    "weight" : 2
+  }, {
+    "source" : "nhạc tiền chiến",
+    "target" : "world music",
+    "weight" : 2
+  }, {
+    "source" : "folk",
+    "target" : "world music",
+    "weight" : 2
+  }, {
+    "source" : "nhạc nhẹ",
+    "target" : "world music",
+    "weight" : 2
+  }, {
+    "source" : "nhạc điện tử",
+    "target" : "world music",
+    "weight" : 2
+  }, {
+    "source" : "alternative rock",
+    "target" : "new-age",
+    "weight" : 2
+  }, {
+    "source" : "indie",
+    "target" : "new-age",
+    "weight" : 2
+  }, {
+    "source" : "V-pop",
+    "target" : "nhạc nhẹ",
+    "weight" : 2
+  }, {
+    "source" : "jazz",
+    "target" : "nhạc nhẹ",
+    "weight" : 2
+  }, {
+    "source" : "folk",
+    "target" : "nhạc nhẹ",
+    "weight" : 2
+  }, {
+    "source" : "nhạc trữ tình",
+    "target" : "nhạc điện tử",
+    "weight" : 2
+  }, {
+    "source" : "alternative rock",
+    "target" : "nhạc điện tử",
+    "weight" : 2
+  }, {
+    "source" : "Nhạc trẻ",
+    "target" : "Nhạc trữ tình",
+    "weight" : 2
+  }, {
+    "source" : "EDM",
+    "target" : "Hip hop",
+    "weight" : 2
+  }, {
+    "source" : "R&B",
+    "target" : "V-Pop",
+    "weight" : 2
+  }, {
+    "source" : "Dance pop",
+    "target" : "V-Pop",
+    "weight" : 2
+  }, {
+    "source" : "Hip hop",
+    "target" : "pop rap",
+    "weight" : 2
+  }, {
+    "source" : "Hip hop",
+    "target" : "underground hip hop",
+    "weight" : 2
+  }, {
+    "source" : "pop rap",
+    "target" : "underground hip hop",
+    "weight" : 2
+  }, {
+    "source" : "V-pop",
+    "target" : "neo soul",
+    "weight" : 2
+  }, {
+    "source" : "R&B",
+    "target" : "neo soul",
+    "weight" : 2
+  }, {
+    "source" : "ballad",
+    "target" : "neo soul",
+    "weight" : 2
+  }, {
+    "source" : "V-pop",
+    "target" : "electropop",
+    "weight" : 2
+  }, {
+    "source" : "ballad",
+    "target" : "electropop",
+    "weight" : 2
+  }, {
+    "source" : "V-pop",
+    "target" : "blues",
+    "weight" : 2
+  }, {
+    "source" : "R&B",
+    "target" : "alternative rock",
+    "weight" : 2
+  }, {
+    "source" : "alternative rock",
+    "target" : "indie",
+    "weight" : 2
+  }, {
+    "source" : "Cải lương",
+    "target" : "Dân ca Việt Nam",
+    "weight" : 2
+  }, {
+    "source" : "Bolero Việt Nam",
+    "target" : "Dân ca Việt Nam",
+    "weight" : 2
+  }, {
+    "source" : "dance-pop",
+    "target" : "pop rock",
+    "weight" : 2
+  }, {
+    "source" : "EDM",
+    "target" : "pop rock",
+    "weight" : 2
+  }, {
+    "source" : "V-pop",
+    "target" : "pop soul",
+    "weight" : 2
+  }, {
+    "source" : "R&B",
+    "target" : "pop soul",
+    "weight" : 2
+  }, {
+    "source" : "dance-pop",
+    "target" : "pop soul",
+    "weight" : 2
+  }, {
+    "source" : "ballad",
+    "target" : "pop soul",
+    "weight" : 2
+  }, {
+    "source" : "EDM",
+    "target" : "pop soul",
+    "weight" : 2
+  }, {
+    "source" : "pop rock",
+    "target" : "pop soul",
+    "weight" : 2
+  }, {
+    "source" : "ballad",
+    "target" : "pop",
+    "weight" : 2
+  }, {
+    "source" : "New Age",
+    "target" : "V-pop",
+    "weight" : 1
+  }, {
+    "source" : "Cantopop",
+    "target" : "V-pop",
+    "weight" : 1
+  }, {
+    "source" : "Nhạc trữ tình",
+    "target" : "V-pop",
+    "weight" : 1
+  }, {
+    "source" : "Ballad",
+    "target" : "V-pop",
+    "weight" : 1
+  }, {
+    "source" : "Rap",
+    "target" : "V-pop",
+    "weight" : 1
+  }, {
+    "source" : "Semi-classical music",
+    "target" : "V-pop",
+    "weight" : 1
+  }, {
+    "source" : "Nhạc thiếu nhi",
+    "target" : "V-pop",
+    "weight" : 1
+  }, {
+    "source" : "Soul",
+    "target" : "V-pop",
+    "weight" : 1
+  }, {
+    "source" : "Cantopop",
+    "target" : "R&B",
+    "weight" : 1
+  }, {
+    "source" : "Ballad",
+    "target" : "R&B",
+    "weight" : 1
+  }, {
+    "source" : "Nhạc thiếu nhi",
+    "target" : "R&B",
+    "weight" : 1
+  }, {
+    "source" : "Nhạc dance điện tử",
+    "target" : "R&B",
+    "weight" : 1
+  }, {
+    "source" : "Pop",
+    "target" : "R&B",
+    "weight" : 1
+  }, {
+    "source" : "Dân ca",
+    "target" : "Nhạc vàng",
+    "weight" : 1
+  }, {
+    "source" : "Nhạc trữ tình",
+    "target" : "Nhạc vàng",
+    "weight" : 1
+  }, {
+    "source" : "Nhạc Hoa",
+    "target" : "Nhạc vàng",
+    "weight" : 1
+  }, {
+    "source" : "Nhạc hải ngoại",
+    "target" : "Nhạc vàng",
+    "weight" : 1
+  }, {
+    "source" : "Nhạc ngoại quốc",
+    "target" : "Nhạc vàng",
+    "weight" : 1
+  }, {
+    "source" : "Nhạc kháng chiến",
+    "target" : "Tình khúc 1954-1975",
+    "weight" : 1
+  }, {
+    "source" : "Nhạc ngoại quốc",
+    "target" : "Nhạc tiền chiến",
+    "weight" : 1
+  }, {
+    "source" : "Nhạc kháng chiến",
+    "target" : "Nhạc tiền chiến",
+    "weight" : 1
+  }, {
+    "source" : "Cantopop",
+    "target" : "dance-pop",
+    "weight" : 1
+  }, {
+    "source" : "acoustic",
+    "target" : "dance-pop",
+    "weight" : 1
+  }, {
+    "source" : "Hip hop",
+    "target" : "dance-pop",
+    "weight" : 1
+  }, {
+    "source" : "acoustic",
+    "target" : "ballad",
+    "weight" : 1
+  }, {
+    "source" : "alternative hip hop",
+    "target" : "ballad",
+    "weight" : 1
+  }, {
+    "source" : "Nhạc dance điện tử",
+    "target" : "ballad",
+    "weight" : 1
+  }, {
+    "source" : "Ballad",
+    "target" : "EDM",
+    "weight" : 1
+  }, {
+    "source" : "EDM",
+    "target" : "bolero",
+    "weight" : 1
+  }, {
+    "source" : "Cantopop",
+    "target" : "bolero",
+    "weight" : 1
+  }, {
+    "source" : "ballad",
+    "target" : "folktronica",
+    "weight" : 1
+  }, {
+    "source" : "bolero",
+    "target" : "folktronica",
+    "weight" : 1
+  }, {
+    "source" : "funk",
+    "target" : "soul",
+    "weight" : 1
+  }, {
+    "source" : "classical crossover",
+    "target" : "soul",
+    "weight" : 1
+  }, {
+    "source" : "ballad",
+    "target" : "soul",
+    "weight" : 1
+  }, {
+    "source" : "EDM",
+    "target" : "soul",
+    "weight" : 1
+  }, {
+    "source" : "classical crossover",
+    "target" : "funk",
+    "weight" : 1
+  }, {
+    "source" : "ballad",
+    "target" : "funk",
+    "weight" : 1
+  }, {
+    "source" : "electropop",
+    "target" : "funk",
+    "weight" : 1
+  }, {
+    "source" : "blues",
+    "target" : "funk",
+    "weight" : 1
+  }, {
+    "source" : "alternative rock",
+    "target" : "funk",
+    "weight" : 1
+  }, {
+    "source" : "V-pop",
+    "target" : "classical crossover",
+    "weight" : 1
+  }, {
+    "source" : "R&B",
+    "target" : "classical crossover",
+    "weight" : 1
+  }, {
+    "source" : "ballad",
+    "target" : "hip-hop",
+    "weight" : 1
+  }, {
+    "source" : "acoustic",
+    "target" : "nhạc tiền chiến",
+    "weight" : 1
+  }, {
+    "source" : "New Age",
+    "target" : "nhạc tiền chiến",
+    "weight" : 1
+  }, {
+    "source" : "electronic",
+    "target" : "nhạc tiền chiến",
+    "weight" : 1
+  }, {
+    "source" : "dân gian đương đại",
+    "target" : "nhạc tiền chiến",
+    "weight" : 1
+  }, {
+    "source" : "new-age",
+    "target" : "nhạc tiền chiến",
+    "weight" : 1
+  }, {
+    "source" : "nhạc thiếu nhi",
+    "target" : "nhạc tiền chiến",
+    "weight" : 1
+  }, {
+    "source" : "nhạc thính phòng",
+    "target" : "nhạc tiền chiến",
+    "weight" : 1
+  }, {
+    "source" : "dance-pop",
+    "target" : "nhạc tiền chiến",
+    "weight" : 1
+  }, {
+    "source" : "Nhạc trẻ",
+    "target" : "nhạc tiền chiến",
+    "weight" : 1
+  }, {
+    "source" : "nhạc tiền chiến",
+    "target" : "nhạc vàng",
+    "weight" : 1
+  }, {
+    "source" : "Nhạc trữ tình",
+    "target" : "nhạc vàng",
+    "weight" : 1
+  }, {
+    "source" : "dance-pop",
+    "target" : "nhạc vàng",
+    "weight" : 1
+  }, {
+    "source" : "EDM",
+    "target" : "nhạc vàng",
+    "weight" : 1
+  }, {
+    "source" : "Dance pop",
+    "target" : "Pop ballad",
+    "weight" : 1
+  }, {
+    "source" : "Pop ballad",
+    "target" : "nhạc hải ngoại",
+    "weight" : 1
+  }, {
+    "source" : "Dance pop",
+    "target" : "nhạc hải ngoại",
+    "weight" : 1
+  }, {
+    "source" : "Nhạc vàng",
+    "target" : "nhạc hải ngoại",
+    "weight" : 1
+  }, {
+    "source" : "Pop ballad",
+    "target" : "nhạc trữ tình",
+    "weight" : 1
+  }, {
+    "source" : "Dance pop",
+    "target" : "nhạc trữ tình",
+    "weight" : 1
+  }, {
+    "source" : "nhạc hải ngoại",
+    "target" : "nhạc trữ tình",
+    "weight" : 1
+  }, {
+    "source" : "nhạc tiền chiến",
+    "target" : "nhạc trữ tình",
+    "weight" : 1
+  }, {
+    "source" : "Nhạc trẻ",
+    "target" : "nhạc trữ tình",
+    "weight" : 1
+  }, {
+    "source" : "dance-pop",
+    "target" : "nhạc trữ tình",
+    "weight" : 1
+  }, {
+    "source" : "bolero",
+    "target" : "nhạc trữ tình",
+    "weight" : 1
+  }, {
+    "source" : "dance-pop",
+    "target" : "dân ca Việt Nam",
+    "weight" : 1
+  }, {
+    "source" : "ballad",
+    "target" : "dân ca Việt Nam",
+    "weight" : 1
+  }, {
+    "source" : "acoustic",
+    "target" : "jazz",
+    "weight" : 1
+  }, {
+    "source" : "New Age",
+    "target" : "jazz",
+    "weight" : 1
+  }, {
+    "source" : "electronic",
+    "target" : "jazz",
+    "weight" : 1
+  }, {
+    "source" : "ballad",
+    "target" : "jazz",
+    "weight" : 1
+  }, {
+    "source" : "funk",
+    "target" : "jazz",
+    "weight" : 1
+  }, {
+    "source" : "electropop",
+    "target" : "jazz",
+    "weight" : 1
+  }, {
+    "source" : "EDM",
+    "target" : "jazz",
+    "weight" : 1
+  }, {
+    "source" : "dream pop",
+    "target" : "jazz",
+    "weight" : 1
+  }, {
+    "source" : "dance-pop",
+    "target" : "jazz",
+    "weight" : 1
+  }, {
+    "source" : "Dân ca Việt Nam",
+    "target" : "jazz",
+    "weight" : 1
+  }, {
+    "source" : "New Age",
+    "target" : "acoustic",
+    "weight" : 1
+  }, {
+    "source" : "R&B",
+    "target" : "acoustic",
+    "weight" : 1
+  }, {
+    "source" : "nhạc tiền chiến",
+    "target" : "rock",
+    "weight" : 1
+  }, {
+    "source" : "jazz",
+    "target" : "rock",
+    "weight" : 1
+  }, {
+    "source" : "acoustic",
+    "target" : "rock",
+    "weight" : 1
+  }, {
+    "source" : "nhạc đỏ",
+    "target" : "rock",
+    "weight" : 1
+  }, {
+    "source" : "New Age",
+    "target" : "rock",
+    "weight" : 1
+  }, {
+    "source" : "electronic",
+    "target" : "rock",
+    "weight" : 1
+  }, {
+    "source" : "dân gian đương đại",
+    "target" : "rock",
+    "weight" : 1
+  }, {
+    "source" : "nhạc điện tử",
+    "target" : "rock",
+    "weight" : 1
+  }, {
+    "source" : "Semi-classical music",
+    "target" : "rock",
+    "weight" : 1
+  }, {
+    "source" : "bolero",
+    "target" : "rock",
+    "weight" : 1
+  }, {
+    "source" : "dân ca Việt Nam",
+    "target" : "rock",
+    "weight" : 1
+  }, {
+    "source" : "acoustic",
+    "target" : "nhạc đỏ",
+    "weight" : 1
+  }, {
+    "source" : "New Age",
+    "target" : "nhạc đỏ",
+    "weight" : 1
+  }, {
+    "source" : "electronic",
+    "target" : "nhạc đỏ",
+    "weight" : 1
+  }, {
+    "source" : "dân gian đương đại",
+    "target" : "nhạc đỏ",
+    "weight" : 1
+  }, {
+    "source" : "folk",
+    "target" : "nhạc đỏ",
+    "weight" : 1
+  }, {
+    "source" : "nhạc nhẹ",
+    "target" : "nhạc đỏ",
+    "weight" : 1
+  }, {
+    "source" : "nhạc thính phòng",
+    "target" : "nhạc đỏ",
+    "weight" : 1
+  }, {
+    "source" : "R&B",
+    "target" : "nhạc đỏ",
+    "weight" : 1
+  }, {
+    "source" : "dance-pop",
+    "target" : "nhạc đỏ",
+    "weight" : 1
+  }, {
+    "source" : "ballad",
+    "target" : "nhạc đỏ",
+    "weight" : 1
+  }, {
+    "source" : "V-pop",
+    "target" : "electronic",
+    "weight" : 1
+  }, {
+    "source" : "acoustic",
+    "target" : "electronic",
+    "weight" : 1
+  }, {
+    "source" : "New Age",
+    "target" : "electronic",
+    "weight" : 1
+  }, {
+    "source" : "dân gian đương đại",
+    "target" : "electronic",
+    "weight" : 1
+  }, {
+    "source" : "acoustic",
+    "target" : "dân gian đương đại",
+    "weight" : 1
+  }, {
+    "source" : "New Age",
+    "target" : "dân gian đương đại",
+    "weight" : 1
+  }, {
+    "source" : "blues",
+    "target" : "dân gian đương đại",
+    "weight" : 1
+  }, {
+    "source" : "ballad",
+    "target" : "dân gian đương đại",
+    "weight" : 1
+  }, {
+    "source" : "Dân ca Việt Nam",
+    "target" : "dân gian đương đại",
+    "weight" : 1
+  }, {
+    "source" : "nhạc tiền chiến",
+    "target" : "tình khúc 1954–1975",
+    "weight" : 1
+  }, {
+    "source" : "jazz",
+    "target" : "tình khúc 1954–1975",
+    "weight" : 1
+  }, {
+    "source" : "acoustic",
+    "target" : "tình khúc 1954–1975",
+    "weight" : 1
+  }, {
+    "source" : "rock",
+    "target" : "tình khúc 1954–1975",
+    "weight" : 1
+  }, {
+    "source" : "nhạc đỏ",
+    "target" : "tình khúc 1954–1975",
+    "weight" : 1
+  }, {
+    "source" : "New Age",
+    "target" : "tình khúc 1954–1975",
+    "weight" : 1
+  }, {
+    "source" : "electronic",
+    "target" : "tình khúc 1954–1975",
+    "weight" : 1
+  }, {
+    "source" : "dân gian đương đại",
+    "target" : "tình khúc 1954–1975",
+    "weight" : 1
+  }, {
+    "source" : "R&B",
+    "target" : "tình khúc 1954–1975",
+    "weight" : 1
+  }, {
+    "source" : "dance-pop",
+    "target" : "tình khúc 1954–1975",
+    "weight" : 1
+  }, {
+    "source" : "ballad",
+    "target" : "tình khúc 1954–1975",
+    "weight" : 1
+  }, {
+    "source" : "EDM",
+    "target" : "tình khúc 1954–1975",
+    "weight" : 1
+  }, {
+    "source" : "nhạc vàng",
+    "target" : "tình khúc 1954–1975",
+    "weight" : 1
+  }, {
+    "source" : "V-pop",
+    "target" : "nhạc truyền thống",
+    "weight" : 1
+  }, {
+    "source" : "R&B",
+    "target" : "nhạc truyền thống",
+    "weight" : 1
+  }, {
+    "source" : "dance-pop",
+    "target" : "nhạc truyền thống",
+    "weight" : 1
+  }, {
+    "source" : "bolero",
+    "target" : "nhạc truyền thống",
+    "weight" : 1
+  }, {
+    "source" : "Cantopop",
+    "target" : "nhạc truyền thống",
+    "weight" : 1
+  }, {
+    "source" : "dân ca",
+    "target" : "nhạc truyền thống",
+    "weight" : 1
+  }, {
+    "source" : "V-pop",
+    "target" : "sử ca",
+    "weight" : 1
+  }, {
+    "source" : "R&B",
+    "target" : "sử ca",
+    "weight" : 1
+  }, {
+    "source" : "dance-pop",
+    "target" : "sử ca",
+    "weight" : 1
+  }, {
+    "source" : "bolero",
+    "target" : "sử ca",
+    "weight" : 1
+  }, {
+    "source" : "Cantopop",
+    "target" : "sử ca",
+    "weight" : 1
+  }, {
+    "source" : "nhạc truyền thống",
+    "target" : "sử ca",
+    "weight" : 1
+  }, {
+    "source" : "dân ca",
+    "target" : "sử ca",
+    "weight" : 1
+  }, {
+    "source" : "V-pop",
+    "target" : "dân ca",
+    "weight" : 1
+  }, {
+    "source" : "R&B",
+    "target" : "dân ca",
+    "weight" : 1
+  }, {
+    "source" : "dance-pop",
+    "target" : "dân ca",
+    "weight" : 1
+  }, {
+    "source" : "bolero",
+    "target" : "dân ca",
+    "weight" : 1
+  }, {
+    "source" : "Cantopop",
+    "target" : "dân ca",
+    "weight" : 1
+  }, {
+    "source" : "Tình khúc 1954–1975",
+    "target" : "Vọng cổ",
+    "weight" : 1
+  }, {
+    "source" : "Dân ca",
+    "target" : "Vọng cổ",
+    "weight" : 1
+  }, {
+    "source" : "Dân ca",
+    "target" : "Nhạc quê hương",
+    "weight" : 1
+  }, {
+    "source" : "Nhạc quê hương",
+    "target" : "Tình khúc 1954–1975",
+    "weight" : 1
+  }, {
+    "source" : "Nhạc Hoa",
+    "target" : "Tình khúc 1954–1975",
+    "weight" : 1
+  }, {
+    "source" : "Nhạc ngoại quốc",
+    "target" : "Tình khúc 1954–1975",
+    "weight" : 1
+  }, {
+    "source" : "Nhạc Hoa lời Việt",
+    "target" : "Nhạc trẻ",
+    "weight" : 1
+  }, {
+    "source" : "Nhạc ngoại quốc",
+    "target" : "Nhạc trẻ",
+    "weight" : 1
+  }, {
+    "source" : "Nhạc vàng",
+    "target" : "nhạc trẻ",
+    "weight" : 1
+  }, {
+    "source" : "nhạc hải ngoại",
+    "target" : "nhạc trẻ",
+    "weight" : 1
+  }, {
+    "source" : "nhạc quê hương",
+    "target" : "nhạc trẻ",
+    "weight" : 1
+  }, {
+    "source" : "V-pop",
+    "target" : "nhạc trẻ",
+    "weight" : 1
+  }, {
+    "source" : "nhạc tiền chiến",
+    "target" : "nhạc trẻ",
+    "weight" : 1
+  }, {
+    "source" : "jazz",
+    "target" : "nhạc trẻ",
+    "weight" : 1
+  }, {
+    "source" : "folk",
+    "target" : "nhạc trẻ",
+    "weight" : 1
+  }, {
+    "source" : "new-age",
+    "target" : "nhạc trẻ",
+    "weight" : 1
+  }, {
+    "source" : "nhạc nhẹ",
+    "target" : "nhạc trẻ",
+    "weight" : 1
+  }, {
+    "source" : "nhạc thiếu nhi",
+    "target" : "nhạc trẻ",
+    "weight" : 1
+  }, {
+    "source" : "Nhạc vàng",
+    "target" : "nhạc quê hương",
+    "weight" : 1
+  }, {
+    "source" : "nhạc hải ngoại",
+    "target" : "nhạc quê hương",
+    "weight" : 1
+  }, {
+    "source" : "nhạc trẻ",
+    "target" : "world music",
+    "weight" : 1
+  }, {
+    "source" : "new-age",
+    "target" : "world music",
+    "weight" : 1
+  }, {
+    "source" : "nhạc thiếu nhi",
+    "target" : "world music",
+    "weight" : 1
+  }, {
+    "source" : "nhạc đỏ",
+    "target" : "world music",
+    "weight" : 1
+  }, {
+    "source" : "nhạc thính phòng",
+    "target" : "world music",
+    "weight" : 1
+  }, {
+    "source" : "dân gian đương đại",
+    "target" : "world music",
+    "weight" : 1
+  }, {
+    "source" : "Dân ca Việt Nam",
+    "target" : "world music",
+    "weight" : 1
+  }, {
+    "source" : "nhạc hòa tấu",
+    "target" : "world music",
+    "weight" : 1
+  }, {
+    "source" : "R&B",
+    "target" : "folk",
+    "weight" : 1
+  }, {
+    "source" : "ballad",
+    "target" : "folk",
+    "weight" : 1
+  }, {
+    "source" : "alternative hip hop",
+    "target" : "folk",
+    "weight" : 1
+  }, {
+    "source" : "folk",
+    "target" : "new-age",
+    "weight" : 1
+  }, {
+    "source" : "new-age",
+    "target" : "nhạc nhẹ",
+    "weight" : 1
+  }, {
+    "source" : "Pop",
+    "target" : "nhạc nhẹ",
+    "weight" : 1
+  }, {
+    "source" : "nhạc cách mạng(trong thời gian công tác tại Đài Tiếng nói Việt Nam)",
+    "target" : "nhạc nhẹ",
+    "weight" : 1
+  }, {
+    "source" : "V-pop",
+    "target" : "nhạc thiếu nhi",
+    "weight" : 1
+  }, {
+    "source" : "jazz",
+    "target" : "nhạc thiếu nhi",
+    "weight" : 1
+  }, {
+    "source" : "folk",
+    "target" : "nhạc thiếu nhi",
+    "weight" : 1
+  }, {
+    "source" : "new-age",
+    "target" : "nhạc thiếu nhi",
+    "weight" : 1
+  }, {
+    "source" : "nhạc nhẹ",
+    "target" : "nhạc thiếu nhi",
+    "weight" : 1
+  }, {
+    "source" : "nhạc tiền chiến",
+    "target" : "nhạc điện tử",
+    "weight" : 1
+  }, {
+    "source" : "nhạc trẻ",
+    "target" : "nhạc điện tử",
+    "weight" : 1
+  }, {
+    "source" : "folk",
+    "target" : "nhạc điện tử",
+    "weight" : 1
+  }, {
+    "source" : "nhạc nhẹ",
+    "target" : "nhạc điện tử",
+    "weight" : 1
+  }, {
+    "source" : "nhạc thiếu nhi",
+    "target" : "nhạc điện tử",
+    "weight" : 1
+  }, {
+    "source" : "Semi-classical music",
+    "target" : "nhạc điện tử",
+    "weight" : 1
+  }, {
+    "source" : "dân gian đương đại",
+    "target" : "nhạc điện tử",
+    "weight" : 1
+  }, {
+    "source" : "Dân ca Việt Nam",
+    "target" : "nhạc điện tử",
+    "weight" : 1
+  }, {
+    "source" : "nhạc hòa tấu",
+    "target" : "nhạc điện tử",
+    "weight" : 1
+  }, {
+    "source" : "Nhạc Hoa lời Việt",
+    "target" : "Nhạc trữ tình",
+    "weight" : 1
+  }, {
+    "source" : "Nhạc quê hương",
+    "target" : "Nhạc trữ tình",
+    "weight" : 1
+  }, {
+    "source" : "Dance-pop",
+    "target" : "Hip hop",
+    "weight" : 1
+  }, {
+    "source" : "Ballad",
+    "target" : "Dance-pop",
+    "weight" : 1
+  }, {
+    "source" : "V-pop",
+    "target" : "dance",
+    "weight" : 1
+  }, {
+    "source" : "R&B",
+    "target" : "dance",
+    "weight" : 1
+  }, {
+    "source" : "ballad",
+    "target" : "dance",
+    "weight" : 1
+  }, {
+    "source" : "Nhạc vàng",
+    "target" : "Rap",
+    "weight" : 1
+  }, {
+    "source" : "Nhạc trẻ",
+    "target" : "Rap",
+    "weight" : 1
+  }, {
+    "source" : "Hip hop",
+    "target" : "Rap",
+    "weight" : 1
+  }, {
+    "source" : "dance-pop",
+    "target" : "hip hop",
+    "weight" : 1
+  }, {
+    "source" : "EDM",
+    "target" : "hip hop",
+    "weight" : 1
+  }, {
+    "source" : "folktronica",
+    "target" : "hip hop",
+    "weight" : 1
+  }, {
+    "source" : "V-pop",
+    "target" : "pop rap",
+    "weight" : 1
+  }, {
+    "source" : "R&B",
+    "target" : "pop rap",
+    "weight" : 1
+  }, {
+    "source" : "hip hop",
+    "target" : "pop rap",
+    "weight" : 1
+  }, {
+    "source" : "V-pop",
+    "target" : "nhạc thính phòng",
+    "weight" : 1
+  }, {
+    "source" : "jazz",
+    "target" : "nhạc thính phòng",
+    "weight" : 1
+  }, {
+    "source" : "folk",
+    "target" : "nhạc thính phòng",
+    "weight" : 1
+  }, {
+    "source" : "nhạc nhẹ",
+    "target" : "nhạc thính phòng",
+    "weight" : 1
+  }, {
+    "source" : "funk",
+    "target" : "neo soul",
+    "weight" : 1
+  }, {
+    "source" : "jazz",
+    "target" : "neo soul",
+    "weight" : 1
+  }, {
+    "source" : "electropop",
+    "target" : "neo soul",
+    "weight" : 1
+  }, {
+    "source" : "blues",
+    "target" : "neo soul",
+    "weight" : 1
+  }, {
+    "source" : "alternative rock",
+    "target" : "neo soul",
+    "weight" : 1
+  }, {
+    "source" : "folk",
+    "target" : "neo soul",
+    "weight" : 1
+  }, {
+    "source" : "alternative hip hop",
+    "target" : "neo soul",
+    "weight" : 1
+  }, {
+    "source" : "R&B",
+    "target" : "electropop",
+    "weight" : 1
+  }, {
+    "source" : "blues",
+    "target" : "electropop",
+    "weight" : 1
+  }, {
+    "source" : "alternative rock",
+    "target" : "electropop",
+    "weight" : 1
+  }, {
+    "source" : "dân gian đương đại",
+    "target" : "electropop",
+    "weight" : 1
+  }, {
+    "source" : "R&B",
+    "target" : "blues",
+    "weight" : 1
+  }, {
+    "source" : "ballad",
+    "target" : "blues",
+    "weight" : 1
+  }, {
+    "source" : "alternative rock",
+    "target" : "blues",
+    "weight" : 1
+  }, {
+    "source" : "V-pop",
+    "target" : "disco",
+    "weight" : 1
+  }, {
+    "source" : "R&B",
+    "target" : "disco",
+    "weight" : 1
+  }, {
+    "source" : "dance-pop",
+    "target" : "disco",
+    "weight" : 1
+  }, {
+    "source" : "ballad",
+    "target" : "disco",
+    "weight" : 1
+  }, {
+    "source" : "EDM",
+    "target" : "disco",
+    "weight" : 1
+  }, {
+    "source" : "R&B",
+    "target" : "indie",
+    "weight" : 1
+  }, {
+    "source" : "Cải lương",
+    "target" : "Dân ca",
+    "weight" : 1
+  }, {
+    "source" : "Dân gian đương đại",
+    "target" : "Pop",
+    "weight" : 1
+  }, {
+    "source" : "V-pop",
+    "target" : "dream pop",
+    "weight" : 1
+  }, {
+    "source" : "R&B",
+    "target" : "dream pop",
+    "weight" : 1
+  }, {
+    "source" : "EDM",
+    "target" : "dream pop",
+    "weight" : 1
+  }, {
+    "source" : "folk",
+    "target" : "pop rock",
+    "weight" : 1
+  }, {
+    "source" : "neo soul",
+    "target" : "pop rock",
+    "weight" : 1
+  }, {
+    "source" : "alternative hip hop",
+    "target" : "pop rock",
+    "weight" : 1
+  }, {
+    "source" : "cổ điển",
+    "target" : "pop rock",
+    "weight" : 1
+  }, {
+    "source" : "V-pop",
+    "target" : "alternative hip hop",
+    "weight" : 1
+  }, {
+    "source" : "R&B",
+    "target" : "alternative hip hop",
+    "weight" : 1
+  }, {
+    "source" : "V-pop",
+    "target" : "electronica",
+    "weight" : 1
+  }, {
+    "source" : "Soul",
+    "target" : "electronica",
+    "weight" : 1
+  }, {
+    "source" : "Rock",
+    "target" : "hard rock",
+    "weight" : 1
+  }, {
+    "source" : "Rock",
+    "target" : "heavy metal",
+    "weight" : 1
+  }, {
+    "source" : "hard rock",
+    "target" : "heavy metal",
+    "weight" : 1
+  }, {
+    "source" : "Pop",
+    "target" : "nhạc cách mạng(trong thời gian công tác tại Đài Tiếng nói Việt Nam)",
+    "weight" : 1
+  }, {
+    "source" : "V-pop",
+    "target" : "cổ điển",
+    "weight" : 1
+  }, {
+    "source" : "R&B",
+    "target" : "cổ điển",
+    "weight" : 1
+  }, {
+    "source" : "ballad",
+    "target" : "cổ điển",
+    "weight" : 1
+  }, {
+    "source" : "V-pop",
+    "target" : "pop",
+    "weight" : 1
+  }, {
+    "source" : "R&B",
+    "target" : "pop",
+    "weight" : 1
+  }, {
+    "source" : "Nhạc dance điện tử",
+    "target" : "pop",
+    "weight" : 1
+  }, {
+    "source" : "Chương trình chiếu mạng",
+    "target" : "Video âm nhạc",
+    "weight" : 1
+  }, {
+    "source" : "jazz",
+    "target" : "nhạc hòa tấu",
+    "weight" : 1
+  }, {
+    "source" : "dân gian đương đại",
+    "target" : "nhạc hòa tấu",
+    "weight" : 1
+  }, {
+    "source" : "Dân ca Việt Nam",
+    "target" : "nhạc hòa tấu",
+    "weight" : 1
+  }, {
+    "source" : "Nhạc vàng",
+    "target" : "NhạcPhật giáo",
+    "weight" : 1
+  }, {
+    "source" : "Nhạc trữ tình nói chung",
+    "target" : "NhạcPhật giáo",
+    "weight" : 1
+  } ]
+}
