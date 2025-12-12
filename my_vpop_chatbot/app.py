@@ -240,6 +240,6 @@ async def ask(req: Request):
 
 if __name__ == "__main__":
     print("\n" + "="*80)
-    print("   V-POP GRAPH AI 2025 - FINAL: CHẠY NGON, ĐẸP, KHÔNG LỖI")
+    print("   V-POP GRAPH AI  ")
     print("="*80)
     uvicorn.run("app:app", host="127.0.0.1", port=8000, reload=False)
