@@ -1,4 +1,3 @@
-﻿# app.py - V-Pop Graph AI 2025 - FINAL: CHẠY NGON 100%, ĐẸP, KHÔNG LỖI
 from fastapi import FastAPI, Request
 from fastapi.responses import HTMLResponse
 import uvicorn
